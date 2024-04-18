@@ -1,0 +1,4732 @@
+{
+  "schema": {
+    "fields": [
+      {
+        "name": "Date",
+        "type": "datetime"
+      },
+      {
+        "name": "Bitcoin_2022",
+        "type": "number"
+      },
+      {
+        "name": "Native Tokens_2022",
+        "type": "number"
+      },
+      {
+        "name": "Native Tokens AI Autopilot Prudent_2022",
+        "type": "number"
+      },
+      {
+        "name": "Native Tokens AI Autopilot Risky_2022",
+        "type": "number"
+      },
+      {
+        "name": "year",
+        "type": "string"
+      }
+    ],
+    "primaryKey": [
+      "Date"
+    ],
+    "pandas_version": "1.4.0"
+  },
+  "data": [
+    {
+      "Date": "2021-12-30T00:00:00.000",
+      "Bitcoin_2022": 100,
+      "Native Tokens_2022": 100,
+      "Native Tokens AI Autopilot Prudent_2022": 100,
+      "Native Tokens AI Autopilot Risky_2022": 100,
+      "year": "2022"
+    },
+    {
+      "Date": "2021-12-31T00:00:00.000",
+      "Bitcoin_2022": 100,
+      "Native Tokens_2022": 100,
+      "Native Tokens AI Autopilot Prudent_2022": 100,
+      "Native Tokens AI Autopilot Risky_2022": 100,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-01-03T00:00:00.000",
+      "Bitcoin_2022": 100.4558681942,
+      "Native Tokens_2022": 100,
+      "Native Tokens AI Autopilot Prudent_2022": 99.4743722265,
+      "Native Tokens AI Autopilot Risky_2022": 99.3494962486,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-01-04T00:00:00.000",
+      "Bitcoin_2022": 99.173076299,
+      "Native Tokens_2022": 100.9088629127,
+      "Native Tokens AI Autopilot Prudent_2022": 100.0576507083,
+      "Native Tokens AI Autopilot Risky_2022": 100.0713470707,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-01-05T00:00:00.000",
+      "Bitcoin_2022": 93.9557978775,
+      "Native Tokens_2022": 100.9906442186,
+      "Native Tokens AI Autopilot Prudent_2022": 100.2754942114,
+      "Native Tokens AI Autopilot Risky_2022": 100.3409447294,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-01-06T00:00:00.000",
+      "Bitcoin_2022": 93.2452752626,
+      "Native Tokens_2022": 95.8841104375,
+      "Native Tokens AI Autopilot Prudent_2022": 97.0722130746,
+      "Native Tokens AI Autopilot Risky_2022": 96.3766443247,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-01-07T00:00:00.000",
+      "Bitcoin_2022": 89.8899815013,
+      "Native Tokens_2022": 93.2891350809,
+      "Native Tokens AI Autopilot Prudent_2022": 95.5216213475,
+      "Native Tokens AI Autopilot Risky_2022": 94.4576708892,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-01-10T00:00:00.000",
+      "Bitcoin_2022": 90.5076861498,
+      "Native Tokens_2022": 92.2486587866,
+      "Native Tokens AI Autopilot Prudent_2022": 94.7390991474,
+      "Native Tokens AI Autopilot Risky_2022": 93.4892410363,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-01-11T00:00:00.000",
+      "Bitcoin_2022": 92.457079804,
+      "Native Tokens_2022": 93.2125573111,
+      "Native Tokens AI Autopilot Prudent_2022": 95.3594630991,
+      "Native Tokens AI Autopilot Risky_2022": 94.1995759548,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-01-12T00:00:00.000",
+      "Bitcoin_2022": 94.9837189931,
+      "Native Tokens_2022": 96.2589526477,
+      "Native Tokens AI Autopilot Prudent_2022": 97.5687592403,
+      "Native Tokens AI Autopilot Risky_2022": 96.7292848268,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-01-13T00:00:00.000",
+      "Bitcoin_2022": 92.0823461959,
+      "Native Tokens_2022": 95.8424532852,
+      "Native Tokens AI Autopilot Prudent_2022": 97.3326207043,
+      "Native Tokens AI Autopilot Risky_2022": 96.4588992773,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-01-14T00:00:00.000",
+      "Bitcoin_2022": 93.1929164097,
+      "Native Tokens_2022": 95.4497538864,
+      "Native Tokens AI Autopilot Prudent_2022": 97.0244399017,
+      "Native Tokens AI Autopilot Risky_2022": 96.1060232208,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-01-17T00:00:00.000",
+      "Bitcoin_2022": 91.3235755471,
+      "Native Tokens_2022": 95.9852530666,
+      "Native Tokens AI Autopilot Prudent_2022": 97.4446864507,
+      "Native Tokens AI Autopilot Risky_2022": 96.5872178433,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-01-18T00:00:00.000",
+      "Bitcoin_2022": 91.6595809128,
+      "Native Tokens_2022": 93.8648642072,
+      "Native Tokens AI Autopilot Prudent_2022": 95.8157307814,
+      "Native Tokens AI Autopilot Risky_2022": 94.7220158308,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-01-19T00:00:00.000",
+      "Bitcoin_2022": 90.1736280141,
+      "Native Tokens_2022": 92.8336368385,
+      "Native Tokens AI Autopilot Prudent_2022": 94.9312118534,
+      "Native Tokens AI Autopilot Risky_2022": 93.7092157203,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-01-20T00:00:00.000",
+      "Bitcoin_2022": 88.0924717922,
+      "Native Tokens_2022": 95.2436963071,
+      "Native Tokens AI Autopilot Prudent_2022": 96.8203201488,
+      "Native Tokens AI Autopilot Risky_2022": 95.8723001183,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-01-21T00:00:00.000",
+      "Bitcoin_2022": 78.9179891604,
+      "Native Tokens_2022": 89.2069608112,
+      "Native Tokens AI Autopilot Prudent_2022": 92.2216222036,
+      "Native Tokens AI Autopilot Risky_2022": 90.6066561078,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-01-24T00:00:00.000",
+      "Bitcoin_2022": 79.3740737135,
+      "Native Tokens_2022": 81.3742675383,
+      "Native Tokens AI Autopilot Prudent_2022": 86.2821376518,
+      "Native Tokens AI Autopilot Risky_2022": 83.8057721118,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-01-25T00:00:00.000",
+      "Bitcoin_2022": 79.945910276,
+      "Native Tokens_2022": 83.717986532,
+      "Native Tokens AI Autopilot Prudent_2022": 87.6710874413,
+      "Native Tokens AI Autopilot Risky_2022": 85.5840756672,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-01-26T00:00:00.000",
+      "Bitcoin_2022": 79.620939214,
+      "Native Tokens_2022": 86.1915537226,
+      "Native Tokens AI Autopilot Prudent_2022": 89.2782725988,
+      "Native Tokens AI Autopilot Risky_2022": 87.6417908562,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-01-27T00:00:00.000",
+      "Bitcoin_2022": 80.408269237,
+      "Native Tokens_2022": 84.2938038912,
+      "Native Tokens AI Autopilot Prudent_2022": 88.0503699918,
+      "Native Tokens AI Autopilot Risky_2022": 86.0696796198,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-01-28T00:00:00.000",
+      "Bitcoin_2022": 81.6648817058,
+      "Native Tokens_2022": 83.7828082265,
+      "Native Tokens AI Autopilot Prudent_2022": 87.6231019533,
+      "Native Tokens AI Autopilot Risky_2022": 85.5226387716,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-01-31T00:00:00.000",
+      "Bitcoin_2022": 83.2951459882,
+      "Native Tokens_2022": 85.8996000873,
+      "Native Tokens AI Autopilot Prudent_2022": 89.1014493648,
+      "Native Tokens AI Autopilot Risky_2022": 87.4154001054,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-02-01T00:00:00.000",
+      "Bitcoin_2022": 83.7518796179,
+      "Native Tokens_2022": 87.6268729582,
+      "Native Tokens AI Autopilot Prudent_2022": 90.1328889166,
+      "Native Tokens AI Autopilot Risky_2022": 88.7413227695,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-02-02T00:00:00.000",
+      "Bitcoin_2022": 79.8152295027,
+      "Native Tokens_2022": 86.4796544096,
+      "Native Tokens AI Autopilot Prudent_2022": 89.5085965563,
+      "Native Tokens AI Autopilot Risky_2022": 87.9387906309,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-02-03T00:00:00.000",
+      "Bitcoin_2022": 80.6754724737,
+      "Native Tokens_2022": 85.6933585505,
+      "Native Tokens AI Autopilot Prudent_2022": 89.1014493648,
+      "Native Tokens AI Autopilot Risky_2022": 87.4154001058,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-02-04T00:00:00.000",
+      "Bitcoin_2022": 89.9352005106,
+      "Native Tokens_2022": 89.5088269818,
+      "Native Tokens AI Autopilot Prudent_2022": 91.3814736372,
+      "Native Tokens AI Autopilot Risky_2022": 90.3463870475,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-02-07T00:00:00.000",
+      "Bitcoin_2022": 94.8385421738,
+      "Native Tokens_2022": 94.5617446339,
+      "Native Tokens AI Autopilot Prudent_2022": 94.5300785848,
+      "Native Tokens AI Autopilot Risky_2022": 94.3939404436,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-02-08T00:00:00.000",
+      "Bitcoin_2022": 95.2805633986,
+      "Native Tokens_2022": 92.3875843252,
+      "Native Tokens AI Autopilot Prudent_2022": 93.0402008159,
+      "Native Tokens AI Autopilot Risky_2022": 92.4104149468,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-02-09T00:00:00.000",
+      "Bitcoin_2022": 96.0393340473,
+      "Native Tokens_2022": 93.7528374772,
+      "Native Tokens AI Autopilot Prudent_2022": 93.9478438119,
+      "Native Tokens AI Autopilot Risky_2022": 93.6187912728,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-02-10T00:00:00.000",
+      "Bitcoin_2022": 94.1615551877,
+      "Native Tokens_2022": 93.4632814413,
+      "Native Tokens AI Autopilot Prudent_2022": 93.5775027643,
+      "Native Tokens AI Autopilot Risky_2022": 93.1257435036,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-02-11T00:00:00.000",
+      "Bitcoin_2022": 91.7110743301,
+      "Native Tokens_2022": 91.7953106154,
+      "Native Tokens AI Autopilot Prudent_2022": 92.6909072508,
+      "Native Tokens AI Autopilot Risky_2022": 91.9453884146,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-02-14T00:00:00.000",
+      "Bitcoin_2022": 92.0613593829,
+      "Native Tokens_2022": 88.9395908905,
+      "Native Tokens AI Autopilot Prudent_2022": 90.8368371397,
+      "Native Tokens AI Autopilot Risky_2022": 89.4770011314,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-02-15T00:00:00.000",
+      "Bitcoin_2022": 96.3757721308,
+      "Native Tokens_2022": 91.6374328511,
+      "Native Tokens AI Autopilot Prudent_2022": 92.410195359,
+      "Native Tokens AI Autopilot Risky_2022": 91.571667022,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-02-16T00:00:00.000",
+      "Bitcoin_2022": 94.9460725451,
+      "Native Tokens_2022": 89.6852800417,
+      "Native Tokens AI Autopilot Prudent_2022": 91.144272233,
+      "Native Tokens AI Autopilot Risky_2022": 89.886300041,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-02-17T00:00:00.000",
+      "Bitcoin_2022": 87.7395904326,
+      "Native Tokens_2022": 88.6787501494,
+      "Native Tokens AI Autopilot Prudent_2022": 90.7263969946,
+      "Native Tokens AI Autopilot Risky_2022": 89.3299683692,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-02-18T00:00:00.000",
+      "Bitcoin_2022": 86.5437748137,
+      "Native Tokens_2022": 86.0117227848,
+      "Native Tokens AI Autopilot Prudent_2022": 89.2904386151,
+      "Native Tokens AI Autopilot Risky_2022": 87.4182276092,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-02-21T00:00:00.000",
+      "Bitcoin_2022": 80.0910870953,
+      "Native Tokens_2022": 85.3765328493,
+      "Native Tokens AI Autopilot Prudent_2022": 89.0546595478,
+      "Native Tokens AI Autopilot Risky_2022": 87.1043268306,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-02-22T00:00:00.000",
+      "Bitcoin_2022": 82.7533833122,
+      "Native Tokens_2022": 83.215388858,
+      "Native Tokens AI Autopilot Prudent_2022": 87.775072993,
+      "Native Tokens AI Autopilot Risky_2022": 85.3978292419,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-02-23T00:00:00.000",
+      "Bitcoin_2022": 80.5387336514,
+      "Native Tokens_2022": 85.0286521071,
+      "Native Tokens AI Autopilot Prudent_2022": 88.8932220458,
+      "Native Tokens AI Autopilot Risky_2022": 86.8890286108,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-02-24T00:00:00.000",
+      "Bitcoin_2022": 82.9502699077,
+      "Native Tokens_2022": 81.7490802126,
+      "Native Tokens AI Autopilot Prudent_2022": 86.8922652894,
+      "Native Tokens AI Autopilot Risky_2022": 84.2204886298,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-02-25T00:00:00.000",
+      "Bitcoin_2022": 84.8334577397,
+      "Native Tokens_2022": 84.5683613149,
+      "Native Tokens AI Autopilot Prudent_2022": 88.3946739622,
+      "Native Tokens AI Autopilot Risky_2022": 86.2241489259,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-02-28T00:00:00.000",
+      "Bitcoin_2022": 93.4415127814,
+      "Native Tokens_2022": 88.1554111632,
+      "Native Tokens AI Autopilot Prudent_2022": 90.6787268762,
+      "Native Tokens AI Autopilot Risky_2022": 89.2702350055,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-03-01T00:00:00.000",
+      "Bitcoin_2022": 96.1072707407,
+      "Native Tokens_2022": 89.3271601238,
+      "Native Tokens AI Autopilot Prudent_2022": 91.3614288078,
+      "Native Tokens AI Autopilot Risky_2022": 89.9417814528,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-03-02T00:00:00.000",
+      "Bitcoin_2022": 95.0092493428,
+      "Native Tokens_2022": 89.9504308476,
+      "Native Tokens AI Autopilot Prudent_2022": 91.758207659,
+      "Native Tokens AI Autopilot Risky_2022": 90.3926769256,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-03-03T00:00:00.000",
+      "Bitcoin_2022": 91.8724780666,
+      "Native Tokens_2022": 89.1526443212,
+      "Native Tokens AI Autopilot Prudent_2022": 91.2784384222,
+      "Native Tokens AI Autopilot Risky_2022": 89.89381385,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-03-04T00:00:00.000",
+      "Bitcoin_2022": 84.6887136382,
+      "Native Tokens_2022": 84.9891958867,
+      "Native Tokens AI Autopilot Prudent_2022": 88.4452556934,
+      "Native Tokens AI Autopilot Risky_2022": 86.3729917494,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-03-07T00:00:00.000",
+      "Bitcoin_2022": 82.2700375383,
+      "Native Tokens_2022": 84.0044281433,
+      "Native Tokens AI Autopilot Prudent_2022": 87.8347412626,
+      "Native Tokens AI Autopilot Risky_2022": 85.7062420613,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-03-08T00:00:00.000",
+      "Bitcoin_2022": 83.8278215905,
+      "Native Tokens_2022": 82.8603058315,
+      "Native Tokens AI Autopilot Prudent_2022": 87.1241739458,
+      "Native Tokens AI Autopilot Risky_2022": 84.8524187185,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-03-09T00:00:00.000",
+      "Bitcoin_2022": 90.7171215612,
+      "Native Tokens_2022": 86.6558956973,
+      "Native Tokens AI Autopilot Prudent_2022": 89.3326066662,
+      "Native Tokens AI Autopilot Risky_2022": 87.3659211414,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-03-10T00:00:00.000",
+      "Bitcoin_2022": 85.280671578,
+      "Native Tokens_2022": 82.8435509023,
+      "Native Tokens AI Autopilot Prudent_2022": 86.9763662514,
+      "Native Tokens AI Autopilot Risky_2022": 84.5454260541,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-03-11T00:00:00.000",
+      "Bitcoin_2022": 83.7962331916,
+      "Native Tokens_2022": 83.1934895675,
+      "Native Tokens AI Autopilot Prudent_2022": 87.2486595242,
+      "Native Tokens AI Autopilot Risky_2022": 84.9243701227,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-03-14T00:00:00.000",
+      "Bitcoin_2022": 85.8319540454,
+      "Native Tokens_2022": 83.5776561596,
+      "Native Tokens AI Autopilot Prudent_2022": 87.5101499122,
+      "Native Tokens AI Autopilot Risky_2022": 85.2601433477,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-03-15T00:00:00.000",
+      "Bitcoin_2022": 84.9981068597,
+      "Native Tokens_2022": 82.273353692,
+      "Native Tokens AI Autopilot Prudent_2022": 86.621082593,
+      "Native Tokens AI Autopilot Risky_2022": 84.1185143827,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-03-16T00:00:00.000",
+      "Bitcoin_2022": 88.9639654258,
+      "Native Tokens_2022": 84.9705045032,
+      "Native Tokens AI Autopilot Prudent_2022": 88.2929047298,
+      "Native Tokens AI Autopilot Risky_2022": 86.1187634497,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-03-17T00:00:00.000",
+      "Bitcoin_2022": 88.5228096366,
+      "Native Tokens_2022": 86.4229463928,
+      "Native Tokens AI Autopilot Prudent_2022": 89.2496162806,
+      "Native Tokens AI Autopilot Risky_2022": 87.3179535386,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-03-18T00:00:00.000",
+      "Bitcoin_2022": 90.3683510207,
+      "Native Tokens_2022": 85.8091569963,
+      "Native Tokens AI Autopilot Prudent_2022": 88.8312316598,
+      "Native Tokens AI Autopilot Risky_2022": 86.7807163786,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-03-21T00:00:00.000",
+      "Bitcoin_2022": 88.7547463733,
+      "Native Tokens_2022": 88.1108672332,
+      "Native Tokens AI Autopilot Prudent_2022": 90.4001739878,
+      "Native Tokens AI Autopilot Risky_2022": 88.7953557286,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-03-22T00:00:00.000",
+      "Bitcoin_2022": 91.6777550601,
+      "Native Tokens_2022": 89.0108779845,
+      "Native Tokens AI Autopilot Prudent_2022": 90.7693588454,
+      "Native Tokens AI Autopilot Risky_2022": 89.3853572506,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-03-23T00:00:00.000",
+      "Bitcoin_2022": 92.8439295103,
+      "Native Tokens_2022": 90.083601849,
+      "Native Tokens AI Autopilot Prudent_2022": 91.4856542798,
+      "Native Tokens AI Autopilot Risky_2022": 90.4022704467,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-03-24T00:00:00.000",
+      "Bitcoin_2022": 95.2260409567,
+      "Native Tokens_2022": 92.0171733339,
+      "Native Tokens AI Autopilot Prudent_2022": 92.5861290542,
+      "Native Tokens AI Autopilot Risky_2022": 92.0187786859,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-03-25T00:00:00.000",
+      "Bitcoin_2022": 95.9140622465,
+      "Native Tokens_2022": 91.6836072353,
+      "Native Tokens AI Autopilot Prudent_2022": 92.3757387686,
+      "Native Tokens AI Autopilot Risky_2022": 91.7165827834,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-03-28T00:00:00.000",
+      "Bitcoin_2022": 101.9158580253,
+      "Native Tokens_2022": 95.851453866,
+      "Native Tokens AI Autopilot Prudent_2022": 94.686959543,
+      "Native Tokens AI Autopilot Risky_2022": 95.1318761546,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-03-29T00:00:00.000",
+      "Bitcoin_2022": 102.660132628,
+      "Native Tokens_2022": 96.5078129326,
+      "Native Tokens AI Autopilot Prudent_2022": 95.0856461893,
+      "Native Tokens AI Autopilot Risky_2022": 95.7094788716,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-03-30T00:00:00.000",
+      "Bitcoin_2022": 101.8509503565,
+      "Native Tokens_2022": 96.3060959769,
+      "Native Tokens AI Autopilot Prudent_2022": 95.0120452137,
+      "Native Tokens AI Autopilot Risky_2022": 95.6028484543,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-03-31T00:00:00.000",
+      "Bitcoin_2022": 98.4973874663,
+      "Native Tokens_2022": 96.9279098295,
+      "Native Tokens AI Autopilot Prudent_2022": 95.3897483523,
+      "Native Tokens AI Autopilot Risky_2022": 96.1500510283,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-04-01T00:00:00.000",
+      "Bitcoin_2022": 100.1676781445,
+      "Native Tokens_2022": 97.8717392654,
+      "Native Tokens AI Autopilot Prudent_2022": 96.0609032014,
+      "Native Tokens AI Autopilot Risky_2022": 97.1223957707,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-04-04T00:00:00.000",
+      "Bitcoin_2022": 100.8859896797,
+      "Native Tokens_2022": 98.0154744501,
+      "Native Tokens AI Autopilot Prudent_2022": 96.1971373028,
+      "Native Tokens AI Autopilot Risky_2022": 97.3197667834,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-04-05T00:00:00.000",
+      "Bitcoin_2022": 98.4562792761,
+      "Native Tokens_2022": 98.0154744501,
+      "Native Tokens AI Autopilot Prudent_2022": 96.1971373028,
+      "Native Tokens AI Autopilot Risky_2022": 97.3197667834,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-04-06T00:00:00.000",
+      "Bitcoin_2022": 93.4086262292,
+      "Native Tokens_2022": 93.8269183023,
+      "Native Tokens AI Autopilot Prudent_2022": 93.8360165906,
+      "Native Tokens AI Autopilot Risky_2022": 93.8990609455,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-04-07T00:00:00.000",
+      "Bitcoin_2022": 94.0036131936,
+      "Native Tokens_2022": 93.9281270698,
+      "Native Tokens AI Autopilot Prudent_2022": 93.9512671843,
+      "Native Tokens AI Autopilot Risky_2022": 94.0660318152,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-04-08T00:00:00.000",
+      "Bitcoin_2022": 91.4657233419,
+      "Native Tokens_2022": 94.5865057538,
+      "Native Tokens AI Autopilot Prudent_2022": 94.4022539012,
+      "Native Tokens AI Autopilot Risky_2022": 94.7194049729,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-04-11T00:00:00.000",
+      "Bitcoin_2022": 85.4552732072,
+      "Native Tokens_2022": 89.8342585061,
+      "Native Tokens AI Autopilot Prudent_2022": 91.809997207,
+      "Native Tokens AI Autopilot Risky_2022": 90.9638377284,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-04-12T00:00:00.000",
+      "Bitcoin_2022": 86.7123183938,
+      "Native Tokens_2022": 89.9861258341,
+      "Native Tokens AI Autopilot Prudent_2022": 91.9495245218,
+      "Native Tokens AI Autopilot Risky_2022": 91.1583789456,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-04-13T00:00:00.000",
+      "Bitcoin_2022": 88.994904748,
+      "Native Tokens_2022": 90.6197269305,
+      "Native Tokens AI Autopilot Prudent_2022": 92.2740431072,
+      "Native Tokens AI Autopilot Risky_2022": 91.6108512137,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-04-14T00:00:00.000",
+      "Bitcoin_2022": 86.4050887612,
+      "Native Tokens_2022": 89.3824437374,
+      "Native Tokens AI Autopilot Prudent_2022": 91.4773264634,
+      "Native Tokens AI Autopilot Risky_2022": 90.4999990064,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-04-15T00:00:00.000",
+      "Bitcoin_2022": 87.7551682731,
+      "Native Tokens_2022": 89.3824437374,
+      "Native Tokens AI Autopilot Prudent_2022": 91.4773264634,
+      "Native Tokens AI Autopilot Risky_2022": 90.4999990064,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-04-18T00:00:00.000",
+      "Bitcoin_2022": 88.2809203907,
+      "Native Tokens_2022": 89.3824437374,
+      "Native Tokens AI Autopilot Prudent_2022": 91.4773264634,
+      "Native Tokens AI Autopilot Risky_2022": 90.4999990064,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-04-19T00:00:00.000",
+      "Bitcoin_2022": 89.7954326637,
+      "Native Tokens_2022": 91.1722009049,
+      "Native Tokens AI Autopilot Prudent_2022": 92.5502758354,
+      "Native Tokens AI Autopilot Risky_2022": 91.9959991056,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-04-20T00:00:00.000",
+      "Bitcoin_2022": 89.5033481539,
+      "Native Tokens_2022": 92.4482526967,
+      "Native Tokens AI Autopilot Prudent_2022": 93.4140910082,
+      "Native Tokens AI Autopilot Risky_2022": 93.2004059658,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-04-21T00:00:00.000",
+      "Bitcoin_2022": 87.5864083341,
+      "Native Tokens_2022": 92.2133613911,
+      "Native Tokens AI Autopilot Prudent_2022": 93.1403666354,
+      "Native Tokens AI Autopilot Risky_2022": 92.8187554428,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-04-22T00:00:00.000",
+      "Bitcoin_2022": 85.913954067,
+      "Native Tokens_2022": 89.0524500984,
+      "Native Tokens AI Autopilot Prudent_2022": 91.3459513068,
+      "Native Tokens AI Autopilot Risky_2022": 90.3168242431,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-04-25T00:00:00.000",
+      "Bitcoin_2022": 87.4674109413,
+      "Native Tokens_2022": 87.4124122672,
+      "Native Tokens AI Autopilot Prudent_2022": 90.3695736492,
+      "Native Tokens AI Autopilot Risky_2022": 88.9554728963,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-04-26T00:00:00.000",
+      "Bitcoin_2022": 82.4608660847,
+      "Native Tokens_2022": 87.8331546249,
+      "Native Tokens AI Autopilot Prudent_2022": 90.6351458638,
+      "Native Tokens AI Autopilot Risky_2022": 89.3257569654,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-04-27T00:00:00.000",
+      "Bitcoin_2022": 84.905721611,
+      "Native Tokens_2022": 87.3054142106,
+      "Native Tokens AI Autopilot Prudent_2022": 90.4071989928,
+      "Native Tokens AI Autopilot Risky_2022": 89.0079334497,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-04-28T00:00:00.000",
+      "Bitcoin_2022": 85.9983340365,
+      "Native Tokens_2022": 87.6954071269,
+      "Native Tokens AI Autopilot Prudent_2022": 90.495618549,
+      "Native Tokens AI Autopilot Risky_2022": 89.1312157482,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-04-29T00:00:00.000",
+      "Bitcoin_2022": 83.4734257186,
+      "Native Tokens_2022": 86.6091768569,
+      "Native Tokens AI Autopilot Prudent_2022": 89.8625721486,
+      "Native Tokens AI Autopilot Risky_2022": 88.2485669462,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-05-02T00:00:00.000",
+      "Bitcoin_2022": 83.3284652582,
+      "Native Tokens_2022": 84.6432125661,
+      "Native Tokens AI Autopilot Prudent_2022": 88.6742383904,
+      "Native Tokens AI Autopilot Risky_2022": 86.5916878179,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-05-03T00:00:00.000",
+      "Bitcoin_2022": 81.6062484449,
+      "Native Tokens_2022": 84.1387679924,
+      "Native Tokens AI Autopilot Prudent_2022": 88.3265872632,
+      "Native Tokens AI Autopilot Risky_2022": 86.1341174384,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-05-04T00:00:00.000",
+      "Bitcoin_2022": 85.8685186988,
+      "Native Tokens_2022": 84.8760331385,
+      "Native Tokens AI Autopilot Prudent_2022": 88.8346927568,
+      "Native Tokens AI Autopilot Risky_2022": 86.8028741469,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-05-05T00:00:00.000",
+      "Bitcoin_2022": 79.0661950043,
+      "Native Tokens_2022": 84.0680678941,
+      "Native Tokens AI Autopilot Prudent_2022": 88.4396768068,
+      "Native Tokens AI Autopilot Risky_2022": 86.2829632815,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-05-06T00:00:00.000",
+      "Bitcoin_2022": 77.9086749099,
+      "Native Tokens_2022": 82.6551961245,
+      "Native Tokens AI Autopilot Prudent_2022": 87.5468665774,
+      "Native Tokens AI Autopilot Risky_2022": 85.1078670898,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-05-09T00:00:00.000",
+      "Bitcoin_2022": 65.1132097924,
+      "Native Tokens_2022": 77.4876844973,
+      "Native Tokens AI Autopilot Prudent_2022": 84.5114379067,
+      "Native Tokens AI Autopilot Risky_2022": 81.112706019,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-05-10T00:00:00.000",
+      "Bitcoin_2022": 67.0874847197,
+      "Native Tokens_2022": 75.9289701391,
+      "Native Tokens AI Autopilot Prudent_2022": 83.5628647447,
+      "Native Tokens AI Autopilot Risky_2022": 79.8344213111,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-05-11T00:00:00.000",
+      "Bitcoin_2022": 62.8916366469,
+      "Native Tokens_2022": 72.0277180133,
+      "Native Tokens AI Autopilot Prudent_2022": 80.8446416485,
+      "Native Tokens AI Autopilot Risky_2022": 76.1713796439,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-05-12T00:00:00.000",
+      "Bitcoin_2022": 62.6921537446,
+      "Native Tokens_2022": 67.9209017635,
+      "Native Tokens AI Autopilot Prudent_2022": 78.2660574609,
+      "Native Tokens AI Autopilot Risky_2022": 72.6965135322,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-05-13T00:00:00.000",
+      "Bitcoin_2022": 63.3594045803,
+      "Native Tokens_2022": 70.5385828211,
+      "Native Tokens AI Autopilot Prudent_2022": 79.8814974697,
+      "Native Tokens AI Autopilot Risky_2022": 74.8734592255,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-05-16T00:00:00.000",
+      "Bitcoin_2022": 64.5809669079,
+      "Native Tokens_2022": 68.8938347644,
+      "Native Tokens AI Autopilot Prudent_2022": 78.8736688413,
+      "Native Tokens AI Autopilot Risky_2022": 73.515322631,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-05-17T00:00:00.000",
+      "Bitcoin_2022": 65.8542390117,
+      "Native Tokens_2022": 71.2190216797,
+      "Native Tokens AI Autopilot Prudent_2022": 80.4247090967,
+      "Native Tokens AI Autopilot Risky_2022": 75.6442040534,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-05-18T00:00:00.000",
+      "Bitcoin_2022": 62.0597366912,
+      "Native Tokens_2022": 68.324886034,
+      "Native Tokens AI Autopilot Prudent_2022": 78.5332626857,
+      "Native Tokens AI Autopilot Risky_2022": 73.0480979164,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-05-19T00:00:00.000",
+      "Bitcoin_2022": 65.5695107044,
+      "Native Tokens_2022": 67.6675021145,
+      "Native Tokens AI Autopilot Prudent_2022": 77.9506324302,
+      "Native Tokens AI Autopilot Risky_2022": 72.2484083384,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-05-20T00:00:00.000",
+      "Bitcoin_2022": 63.1304968682,
+      "Native Tokens_2022": 67.6675021145,
+      "Native Tokens AI Autopilot Prudent_2022": 77.9506324302,
+      "Native Tokens AI Autopilot Risky_2022": 72.2484083384,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-05-23T00:00:00.000",
+      "Bitcoin_2022": 62.9459427298,
+      "Native Tokens_2022": 69.6619978703,
+      "Native Tokens AI Autopilot Prudent_2022": 79.2996108157,
+      "Native Tokens AI Autopilot Risky_2022": 74.0999495954,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-05-24T00:00:00.000",
+      "Bitcoin_2022": 64.1476000389,
+      "Native Tokens_2022": 68.3879819654,
+      "Native Tokens AI Autopilot Prudent_2022": 78.5542123605,
+      "Native Tokens AI Autopilot Risky_2022": 73.0768524077,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-05-25T00:00:00.000",
+      "Bitcoin_2022": 63.9137160722,
+      "Native Tokens_2022": 67.9762332354,
+      "Native Tokens AI Autopilot Prudent_2022": 78.1836845324,
+      "Native Tokens AI Autopilot Risky_2022": 72.5682841696,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-05-26T00:00:00.000",
+      "Bitcoin_2022": 63.1843702333,
+      "Native Tokens_2022": 67.9762332354,
+      "Native Tokens AI Autopilot Prudent_2022": 78.1836845324,
+      "Native Tokens AI Autopilot Risky_2022": 72.5682841696,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-05-27T00:00:00.000",
+      "Bitcoin_2022": 61.8812406019,
+      "Native Tokens_2022": 65.9716953901,
+      "Native Tokens AI Autopilot Prudent_2022": 76.8656963792,
+      "Native Tokens AI Autopilot Risky_2022": 70.7592785784,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-05-30T00:00:00.000",
+      "Bitcoin_2022": 68.6361816982,
+      "Native Tokens_2022": 67.3368919204,
+      "Native Tokens AI Autopilot Prudent_2022": 77.6748124186,
+      "Native Tokens AI Autopilot Risky_2022": 71.8698313823,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-05-31T00:00:00.000",
+      "Bitcoin_2022": 68.7878492844,
+      "Native Tokens_2022": 68.1096937002,
+      "Native Tokens AI Autopilot Prudent_2022": 78.0984287076,
+      "Native Tokens AI Autopilot Risky_2022": 72.3969493641,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-06-01T00:00:00.000",
+      "Bitcoin_2022": 64.4717056654,
+      "Native Tokens_2022": 67.2217706027,
+      "Native Tokens AI Autopilot Prudent_2022": 77.4677979522,
+      "Native Tokens AI Autopilot Risky_2022": 71.6236299928,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-06-02T00:00:00.000",
+      "Bitcoin_2022": 65.893183613,
+      "Native Tokens_2022": 65.5381667253,
+      "Native Tokens AI Autopilot Prudent_2022": 76.2781596598,
+      "Native Tokens AI Autopilot Risky_2022": 70.1644468664,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-06-03T00:00:00.000",
+      "Bitcoin_2022": 64.2605393827,
+      "Native Tokens_2022": 64.4715695321,
+      "Native Tokens AI Autopilot Prudent_2022": 75.4793875579,
+      "Native Tokens AI Autopilot Risky_2022": 69.1874617714,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-06-06T00:00:00.000",
+      "Bitcoin_2022": 67.8665931046,
+      "Native Tokens_2022": 64.4715695321,
+      "Native Tokens AI Autopilot Prudent_2022": 75.4793875579,
+      "Native Tokens AI Autopilot Risky_2022": 69.1874617714,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-06-07T00:00:00.000",
+      "Bitcoin_2022": 67.3499280607,
+      "Native Tokens_2022": 64.4864844507,
+      "Native Tokens AI Autopilot Prudent_2022": 75.4544926482,
+      "Native Tokens AI Autopilot Risky_2022": 69.1587072801,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-06-08T00:00:00.000",
+      "Bitcoin_2022": 65.3438483757,
+      "Native Tokens_2022": 66.0655097694,
+      "Native Tokens AI Autopilot Prudent_2022": 76.5864859324,
+      "Native Tokens AI Autopilot Risky_2022": 70.5442159648,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-06-09T00:00:00.000",
+      "Bitcoin_2022": 65.1192678415,
+      "Native Tokens_2022": 65.3762449237,
+      "Native Tokens AI Autopilot Prudent_2022": 76.0244168847,
+      "Native Tokens AI Autopilot Risky_2022": 69.859544352,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-06-10T00:00:00.000",
+      "Bitcoin_2022": 62.9243068402,
+      "Native Tokens_2022": 64.1429523087,
+      "Native Tokens AI Autopilot Prudent_2022": 75.2287062935,
+      "Native Tokens AI Autopilot Risky_2022": 68.8813671147,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-06-13T00:00:00.000",
+      "Bitcoin_2022": 48.5682450048,
+      "Native Tokens_2022": 56.1088969158,
+      "Native Tokens AI Autopilot Prudent_2022": 70.2070727483,
+      "Native Tokens AI Autopilot Risky_2022": 62.6995368495,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-06-14T00:00:00.000",
+      "Bitcoin_2022": 47.9392896937,
+      "Native Tokens_2022": 56.0990464029,
+      "Native Tokens AI Autopilot Prudent_2022": 70.1530103233,
+      "Native Tokens AI Autopilot Risky_2022": 62.6266500944,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-06-15T00:00:00.000",
+      "Bitcoin_2022": 48.8492952109,
+      "Native Tokens_2022": 55.4149779464,
+      "Native Tokens AI Autopilot Prudent_2022": 69.8784445926,
+      "Native Tokens AI Autopilot Risky_2022": 62.2564816242,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-06-16T00:00:00.000",
+      "Bitcoin_2022": 44.1082227198,
+      "Native Tokens_2022": 55.2354737344,
+      "Native Tokens AI Autopilot Prudent_2022": 69.7926032759,
+      "Native Tokens AI Autopilot Risky_2022": 62.1407506886,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-06-17T00:00:00.000",
+      "Bitcoin_2022": 44.2337108796,
+      "Native Tokens_2022": 55.1907283459,
+      "Native Tokens AI Autopilot Prudent_2022": 69.819176899,
+      "Native Tokens AI Autopilot Risky_2022": 62.1765771459,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-06-20T00:00:00.000",
+      "Bitcoin_2022": 44.51000119,
+      "Native Tokens_2022": 56.1670650016,
+      "Native Tokens AI Autopilot Prudent_2022": 70.5374491672,
+      "Native Tokens AI Autopilot Risky_2022": 63.1449490766,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-06-21T00:00:00.000",
+      "Bitcoin_2022": 44.8304287152,
+      "Native Tokens_2022": 57.0396224593,
+      "Native Tokens AI Autopilot Prudent_2022": 70.9205897361,
+      "Native Tokens AI Autopilot Risky_2022": 63.8064996822,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-06-22T00:00:00.000",
+      "Bitcoin_2022": 43.1977844849,
+      "Native Tokens_2022": 54.6584329708,
+      "Native Tokens AI Autopilot Prudent_2022": 69.3595444298,
+      "Native Tokens AI Autopilot Risky_2022": 61.5491775018,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-06-23T00:00:00.000",
+      "Bitcoin_2022": 45.6532415972,
+      "Native Tokens_2022": 55.9855272181,
+      "Native Tokens AI Autopilot Prudent_2022": 70.3805401308,
+      "Native Tokens AI Autopilot Risky_2022": 62.939625543,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-06-24T00:00:00.000",
+      "Bitcoin_2022": 45.9262865241,
+      "Native Tokens_2022": 59.0298224694,
+      "Native Tokens AI Autopilot Prudent_2022": 72.4195275588,
+      "Native Tokens AI Autopilot Risky_2022": 65.8634617198,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-06-27T00:00:00.000",
+      "Bitcoin_2022": 44.851631887,
+      "Native Tokens_2022": 57.848887903,
+      "Native Tokens AI Autopilot Prudent_2022": 71.6288376063,
+      "Native Tokens AI Autopilot Risky_2022": 64.7294906338,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-06-28T00:00:00.000",
+      "Bitcoin_2022": 43.8732569586,
+      "Native Tokens_2022": 58.1284331669,
+      "Native Tokens AI Autopilot Prudent_2022": 71.7869445842,
+      "Native Tokens AI Autopilot Risky_2022": 64.9785751872,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-06-29T00:00:00.000",
+      "Bitcoin_2022": 43.5125866788,
+      "Native Tokens_2022": 55.4317684279,
+      "Native Tokens AI Autopilot Prudent_2022": 69.9904794746,
+      "Native Tokens AI Autopilot Risky_2022": 62.3646431187,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-06-30T00:00:00.000",
+      "Bitcoin_2022": 43.1129717976,
+      "Native Tokens_2022": 53.9843542441,
+      "Native Tokens AI Autopilot Prudent_2022": 69.2015104221,
+      "Native Tokens AI Autopilot Risky_2022": 61.0980358256,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-07-01T00:00:00.000",
+      "Bitcoin_2022": 41.676997804,
+      "Native Tokens_2022": 54.4524619325,
+      "Native Tokens AI Autopilot Prudent_2022": 69.4254220831,
+      "Native Tokens AI Autopilot Risky_2022": 61.4833501919,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-07-04T00:00:00.000",
+      "Bitcoin_2022": 43.7386817252,
+      "Native Tokens_2022": 54.7368404556,
+      "Native Tokens AI Autopilot Prudent_2022": 69.5781991341,
+      "Native Tokens AI Autopilot Risky_2022": 61.7304660262,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-07-05T00:00:00.000",
+      "Bitcoin_2022": 43.705795173,
+      "Native Tokens_2022": 54.6856504373,
+      "Native Tokens AI Autopilot Prudent_2022": 69.5647961246,
+      "Native Tokens AI Autopilot Risky_2022": 61.724437864,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-07-06T00:00:00.000",
+      "Bitcoin_2022": 44.4857689936,
+      "Native Tokens_2022": 56.5042615059,
+      "Native Tokens AI Autopilot Prudent_2022": 70.8130517002,
+      "Native Tokens AI Autopilot Risky_2022": 63.3114084322,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-07-07T00:00:00.000",
+      "Bitcoin_2022": 46.8153052283,
+      "Native Tokens_2022": 57.5347713742,
+      "Native Tokens AI Autopilot Prudent_2022": 71.472796678,
+      "Native Tokens AI Autopilot Risky_2022": 64.1260699238,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-07-08T00:00:00.000",
+      "Bitcoin_2022": 46.7577537619,
+      "Native Tokens_2022": 57.2959902186,
+      "Native Tokens AI Autopilot Prudent_2022": 71.2209900655,
+      "Native Tokens AI Autopilot Risky_2022": 63.76139106,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-07-11T00:00:00.000",
+      "Bitcoin_2022": 43.1921591536,
+      "Native Tokens_2022": 55.876212203,
+      "Native Tokens AI Autopilot Prudent_2022": 70.2832222997,
+      "Native Tokens AI Autopilot Risky_2022": 62.5877738545,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-07-12T00:00:00.000",
+      "Bitcoin_2022": 41.8241218533,
+      "Native Tokens_2022": 54.5778324586,
+      "Native Tokens AI Autopilot Prudent_2022": 69.3475117925,
+      "Native Tokens AI Autopilot Risky_2022": 61.3987840031,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-07-13T00:00:00.000",
+      "Bitcoin_2022": 43.8126764677,
+      "Native Tokens_2022": 52.2664285684,
+      "Native Tokens AI Autopilot Prudent_2022": 67.6401884997,
+      "Native Tokens AI Autopilot Risky_2022": 59.1980888376,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-07-14T00:00:00.000",
+      "Bitcoin_2022": 44.5396423587,
+      "Native Tokens_2022": 54.5781210793,
+      "Native Tokens AI Autopilot Prudent_2022": 69.3558405046,
+      "Native Tokens AI Autopilot Risky_2022": 61.4154709768,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-07-15T00:00:00.000",
+      "Bitcoin_2022": 45.0569564794,
+      "Native Tokens_2022": 56.9988861743,
+      "Native Tokens AI Autopilot Prudent_2022": 71.0909347344,
+      "Native Tokens AI Autopilot Risky_2022": 63.6130882854,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-07-18T00:00:00.000",
+      "Bitcoin_2022": 48.736572226,
+      "Native Tokens_2022": 61.0921572558,
+      "Native Tokens AI Autopilot Prudent_2022": 74.1018201558,
+      "Native Tokens AI Autopilot Risky_2022": 67.4847878216,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-07-19T00:00:00.000",
+      "Bitcoin_2022": 50.6500503034,
+      "Native Tokens_2022": 62.0917009066,
+      "Native Tokens AI Autopilot Prudent_2022": 74.6664972755,
+      "Native Tokens AI Autopilot Risky_2022": 68.3075933191,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-07-20T00:00:00.000",
+      "Bitcoin_2022": 50.228150456,
+      "Native Tokens_2022": 62.7880901621,
+      "Native Tokens AI Autopilot Prudent_2022": 74.9620069178,
+      "Native Tokens AI Autopilot Risky_2022": 68.7381879896,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-07-21T00:00:00.000",
+      "Bitcoin_2022": 50.0935752226,
+      "Native Tokens_2022": 61.0967151862,
+      "Native Tokens AI Autopilot Prudent_2022": 74.014286043,
+      "Native Tokens AI Autopilot Risky_2022": 67.3572396232,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-07-22T00:00:00.000",
+      "Bitcoin_2022": 49.0598124168,
+      "Native Tokens_2022": 62.8921764365,
+      "Native Tokens AI Autopilot Prudent_2022": 75.0951207735,
+      "Native Tokens AI Autopilot Risky_2022": 68.9321515991,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-07-25T00:00:00.000",
+      "Bitcoin_2022": 46.0885556962,
+      "Native Tokens_2022": 60.5738174603,
+      "Native Tokens AI Autopilot Prudent_2022": 73.7320048861,
+      "Native Tokens AI Autopilot Risky_2022": 66.9459205178,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-07-26T00:00:00.000",
+      "Bitcoin_2022": 45.9734527634,
+      "Native Tokens_2022": 58.1319302375,
+      "Native Tokens AI Autopilot Prudent_2022": 72.1855326249,
+      "Native Tokens AI Autopilot Risky_2022": 64.6925161669,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-07-27T00:00:00.000",
+      "Bitcoin_2022": 49.6723244518,
+      "Native Tokens_2022": 59.3040097425,
+      "Native Tokens AI Autopilot Prudent_2022": 72.9283961691,
+      "Native Tokens AI Autopilot Risky_2022": 65.7749616686,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-07-28T00:00:00.000",
+      "Bitcoin_2022": 51.6015967287,
+      "Native Tokens_2022": 62.1756729694,
+      "Native Tokens AI Autopilot Prudent_2022": 74.5848187188,
+      "Native Tokens AI Autopilot Risky_2022": 68.1885774018,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-07-29T00:00:00.000",
+      "Bitcoin_2022": 51.4378130443,
+      "Native Tokens_2022": 63.1016633405,
+      "Native Tokens AI Autopilot Prudent_2022": 75.1271912405,
+      "Native Tokens AI Autopilot Risky_2022": 68.9788822982,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-08-01T00:00:00.000",
+      "Bitcoin_2022": 50.3493114378,
+      "Native Tokens_2022": 63.1016633405,
+      "Native Tokens AI Autopilot Prudent_2022": 75.1271912405,
+      "Native Tokens AI Autopilot Risky_2022": 68.9788822981,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-08-02T00:00:00.000",
+      "Bitcoin_2022": 49.4375750495,
+      "Native Tokens_2022": 62.5587464948,
+      "Native Tokens AI Autopilot Prudent_2022": 74.9099754372,
+      "Native Tokens AI Autopilot Risky_2022": 68.6597796549,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-08-03T00:00:00.000",
+      "Bitcoin_2022": 50.463548935,
+      "Native Tokens_2022": 63.0467917095,
+      "Native Tokens AI Autopilot Prudent_2022": 75.1613122559,
+      "Native Tokens AI Autopilot Risky_2022": 69.0290080536,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-08-04T00:00:00.000",
+      "Bitcoin_2022": 48.6872423977,
+      "Native Tokens_2022": 62.7934454986,
+      "Native Tokens AI Autopilot Prudent_2022": 75.0831894414,
+      "Native Tokens AI Autopilot Risky_2022": 68.9142410974,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-08-05T00:00:00.000",
+      "Bitcoin_2022": 49.6954748537,
+      "Native Tokens_2022": 63.6452750902,
+      "Native Tokens AI Autopilot Prudent_2022": 75.58272054,
+      "Native Tokens AI Autopilot Risky_2022": 69.6480813228,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-08-08T00:00:00.000",
+      "Bitcoin_2022": 52.084077067,
+      "Native Tokens_2022": 65.8600945674,
+      "Native Tokens AI Autopilot Prudent_2022": 76.8935836209,
+      "Native Tokens AI Autopilot Risky_2022": 71.5738153993,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-08-09T00:00:00.000",
+      "Bitcoin_2022": 50.0805936888,
+      "Native Tokens_2022": 64.5409470554,
+      "Native Tokens AI Autopilot Prudent_2022": 76.1263974116,
+      "Native Tokens AI Autopilot Risky_2022": 70.4467742555,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-08-10T00:00:00.000",
+      "Bitcoin_2022": 51.6665043975,
+      "Native Tokens_2022": 66.4707989306,
+      "Native Tokens AI Autopilot Prudent_2022": 77.3136006376,
+      "Native Tokens AI Autopilot Risky_2022": 72.1908448157,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-08-11T00:00:00.000",
+      "Bitcoin_2022": 52.3891431106,
+      "Native Tokens_2022": 67.4168036023,
+      "Native Tokens AI Autopilot Prudent_2022": 77.8705612775,
+      "Native Tokens AI Autopilot Risky_2022": 73.009052376,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-08-12T00:00:00.000",
+      "Bitcoin_2022": 52.4540507794,
+      "Native Tokens_2022": 66.3296835422,
+      "Native Tokens AI Autopilot Prudent_2022": 77.2138591698,
+      "Native Tokens AI Autopilot Risky_2022": 72.0443188007,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-08-15T00:00:00.000",
+      "Bitcoin_2022": 52.0775863002,
+      "Native Tokens_2022": 66.7610567481,
+      "Native Tokens AI Autopilot Prudent_2022": 77.4893557762,
+      "Native Tokens AI Autopilot Risky_2022": 72.4490393323,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-08-16T00:00:00.000",
+      "Bitcoin_2022": 51.8677181709,
+      "Native Tokens_2022": 66.2043778913,
+      "Native Tokens AI Autopilot Prudent_2022": 77.1454985358,
+      "Native Tokens AI Autopilot Risky_2022": 71.9438930551,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-08-17T00:00:00.000",
+      "Bitcoin_2022": 50.6452904077,
+      "Native Tokens_2022": 64.9474082294,
+      "Native Tokens AI Autopilot Prudent_2022": 76.3338192694,
+      "Native Tokens AI Autopilot Risky_2022": 70.7514890235,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-08-18T00:00:00.000",
+      "Bitcoin_2022": 50.6647627084,
+      "Native Tokens_2022": 64.9361286062,
+      "Native Tokens AI Autopilot Prudent_2022": 76.320959035,
+      "Native Tokens AI Autopilot Risky_2022": 70.7325965915,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-08-19T00:00:00.000",
+      "Bitcoin_2022": 46.03684592,
+      "Native Tokens_2022": 62.059298928,
+      "Native Tokens AI Autopilot Prudent_2022": 74.5866187482,
+      "Native Tokens AI Autopilot Risky_2022": 68.1847498799,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-08-22T00:00:00.000",
+      "Bitcoin_2022": 45.6668722076,
+      "Native Tokens_2022": 60.3431994336,
+      "Native Tokens AI Autopilot Prudent_2022": 73.441877817,
+      "Native Tokens AI Autopilot Risky_2022": 66.5030588991,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-08-23T00:00:00.000",
+      "Bitcoin_2022": 46.4933631909,
+      "Native Tokens_2022": 61.738985156,
+      "Native Tokens AI Autopilot Prudent_2022": 74.3362118859,
+      "Native Tokens AI Autopilot Risky_2022": 67.7987981286,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-08-24T00:00:00.000",
+      "Bitcoin_2022": 46.9433896948,
+      "Native Tokens_2022": 61.3660866058,
+      "Native Tokens AI Autopilot Prudent_2022": 74.0815434873,
+      "Native Tokens AI Autopilot Risky_2022": 67.4298265709,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-08-25T00:00:00.000",
+      "Bitcoin_2022": 46.8352102468,
+      "Native Tokens_2022": 62.3401352288,
+      "Native Tokens AI Autopilot Prudent_2022": 74.6939393903,
+      "Native Tokens AI Autopilot Risky_2022": 68.3170849492,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-08-26T00:00:00.000",
+      "Bitcoin_2022": 44.7148930646,
+      "Native Tokens_2022": 63.0840495742,
+      "Native Tokens AI Autopilot Prudent_2022": 75.3299752514,
+      "Native Tokens AI Autopilot Risky_2022": 69.2385936375,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-08-29T00:00:00.000",
+      "Bitcoin_2022": 43.6785339521,
+      "Native Tokens_2022": 59.255150849,
+      "Native Tokens AI Autopilot Prudent_2022": 72.8448011847,
+      "Native Tokens AI Autopilot Risky_2022": 65.6379955591,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-08-30T00:00:00.000",
+      "Bitcoin_2022": 43.2176895033,
+      "Native Tokens_2022": 59.2954516492,
+      "Native Tokens AI Autopilot Prudent_2022": 72.954683641,
+      "Native Tokens AI Autopilot Risky_2022": 65.7971967049,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-08-31T00:00:00.000",
+      "Bitcoin_2022": 43.7196421424,
+      "Native Tokens_2022": 59.8745823297,
+      "Native Tokens AI Autopilot Prudent_2022": 73.2470749667,
+      "Native Tokens AI Autopilot Risky_2022": 66.2208224225,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-09-01T00:00:00.000",
+      "Bitcoin_2022": 43.4362119884,
+      "Native Tokens_2022": 59.3322743877,
+      "Native Tokens AI Autopilot Prudent_2022": 72.9881592126,
+      "Native Tokens AI Autopilot Risky_2022": 65.8456971622,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-09-02T00:00:00.000",
+      "Bitcoin_2022": 43.1960536137,
+      "Native Tokens_2022": 59.8478475833,
+      "Native Tokens AI Autopilot Prudent_2022": 73.1911745218,
+      "Native Tokens AI Autopilot Risky_2022": 66.1398321063,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-09-05T00:00:00.000",
+      "Bitcoin_2022": 42.7157368643,
+      "Native Tokens_2022": 60.7599359378,
+      "Native Tokens AI Autopilot Prudent_2022": 73.9284392759,
+      "Native Tokens AI Autopilot Risky_2022": 67.2080043878,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-09-06T00:00:00.000",
+      "Bitcoin_2022": 41.0259738855,
+      "Native Tokens_2022": 61.4530699174,
+      "Native Tokens AI Autopilot Prudent_2022": 74.3525992066,
+      "Native Tokens AI Autopilot Risky_2022": 67.8225405896,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-09-07T00:00:00.000",
+      "Bitcoin_2022": 41.9584807278,
+      "Native Tokens_2022": 59.4246781496,
+      "Native Tokens AI Autopilot Prudent_2022": 73.1888468092,
+      "Native Tokens AI Autopilot Risky_2022": 66.1364596406,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-09-08T00:00:00.000",
+      "Bitcoin_2022": 41.9108817707,
+      "Native Tokens_2022": 61.1220737338,
+      "Native Tokens AI Autopilot Prudent_2022": 74.2061100787,
+      "Native Tokens AI Autopilot Risky_2022": 67.6103025492,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-09-09T00:00:00.000",
+      "Bitcoin_2022": 46.0519910427,
+      "Native Tokens_2022": 62.2873057761,
+      "Native Tokens AI Autopilot Prudent_2022": 74.5663899429,
+      "Native Tokens AI Autopilot Risky_2022": 68.1322873122,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-09-12T00:00:00.000",
+      "Bitcoin_2022": 48.4557383788,
+      "Native Tokens_2022": 63.9739891413,
+      "Native Tokens AI Autopilot Prudent_2022": 75.4652842354,
+      "Native Tokens AI Autopilot Risky_2022": 69.434633538,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-09-13T00:00:00.000",
+      "Bitcoin_2022": 43.8213308236,
+      "Native Tokens_2022": 60.6602260366,
+      "Native Tokens AI Autopilot Prudent_2022": 73.2277905926,
+      "Native Tokens AI Autopilot Risky_2022": 66.5774894468,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-09-14T00:00:00.000",
+      "Bitcoin_2022": 43.1592726014,
+      "Native Tokens_2022": 60.8054842489,
+      "Native Tokens AI Autopilot Prudent_2022": 73.3590310814,
+      "Native Tokens AI Autopilot Risky_2022": 66.8694631033,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-09-15T00:00:00.000",
+      "Bitcoin_2022": 42.9169506377,
+      "Native Tokens_2022": 58.9811512115,
+      "Native Tokens AI Autopilot Prudent_2022": 72.1270842581,
+      "Native Tokens AI Autopilot Risky_2022": 65.2958362364,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-09-16T00:00:00.000",
+      "Bitcoin_2022": 42.7157368643,
+      "Native Tokens_2022": 59.3867045095,
+      "Native Tokens AI Autopilot Prudent_2022": 72.4124582021,
+      "Native Tokens AI Autopilot Risky_2022": 65.7035267057,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-09-19T00:00:00.000",
+      "Bitcoin_2022": 42.2332565259,
+      "Native Tokens_2022": 57.1349888627,
+      "Native Tokens AI Autopilot Prudent_2022": 70.8752673398,
+      "Native Tokens AI Autopilot Risky_2022": 63.6775908338,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-09-20T00:00:00.000",
+      "Bitcoin_2022": 41.0432825972,
+      "Native Tokens_2022": 58.0496551243,
+      "Native Tokens AI Autopilot Prudent_2022": 71.5355141078,
+      "Native Tokens AI Autopilot Risky_2022": 64.6198259183,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-09-21T00:00:00.000",
+      "Bitcoin_2022": 40.9307759712,
+      "Native Tokens_2022": 57.5085940489,
+      "Native Tokens AI Autopilot Prudent_2022": 71.1549946912,
+      "Native Tokens AI Autopilot Risky_2022": 64.0767884329,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-09-22T00:00:00.000",
+      "Bitcoin_2022": 41.6425967395,
+      "Native Tokens_2022": 57.0719324313,
+      "Native Tokens AI Autopilot Prudent_2022": 70.8915690556,
+      "Native Tokens AI Autopilot Risky_2022": 63.7008549364,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-09-23T00:00:00.000",
+      "Bitcoin_2022": 40.7879790997,
+      "Native Tokens_2022": 57.1026843076,
+      "Native Tokens AI Autopilot Prudent_2022": 70.9235468682,
+      "Native Tokens AI Autopilot Risky_2022": 63.7464903237,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-09-26T00:00:00.000",
+      "Bitcoin_2022": 41.4002747758,
+      "Native Tokens_2022": 57.6684464898,
+      "Native Tokens AI Autopilot Prudent_2022": 71.260515955,
+      "Native Tokens AI Autopilot Risky_2022": 64.2273773365,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-09-27T00:00:00.000",
+      "Bitcoin_2022": 41.2271876589,
+      "Native Tokens_2022": 58.6529731617,
+      "Native Tokens AI Autopilot Prudent_2022": 71.7751163648,
+      "Native Tokens AI Autopilot Risky_2022": 64.9617611822,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-09-28T00:00:00.000",
+      "Bitcoin_2022": 42.3306180292,
+      "Native Tokens_2022": 57.4099686002,
+      "Native Tokens AI Autopilot Prudent_2022": 71.0166255114,
+      "Native Tokens AI Autopilot Risky_2022": 63.8793224214,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-09-29T00:00:00.000",
+      "Bitcoin_2022": 42.1532037344,
+      "Native Tokens_2022": 58.0649231568,
+      "Native Tokens AI Autopilot Prudent_2022": 71.5076255014,
+      "Native Tokens AI Autopilot Risky_2022": 64.5800262182,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-09-30T00:00:00.000",
+      "Bitcoin_2022": 42.0168976298,
+      "Native Tokens_2022": 57.466770066,
+      "Native Tokens AI Autopilot Prudent_2022": 70.9669365695,
+      "Native Tokens AI Autopilot Risky_2022": 63.8084115642,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-10-03T00:00:00.000",
+      "Bitcoin_2022": 42.3847077532,
+      "Native Tokens_2022": 56.8472572645,
+      "Native Tokens AI Autopilot Prudent_2022": 70.6153172808,
+      "Native Tokens AI Autopilot Risky_2022": 63.3066173165,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-10-04T00:00:00.000",
+      "Bitcoin_2022": 44.0290353639,
+      "Native Tokens_2022": 57.5614488987,
+      "Native Tokens AI Autopilot Prudent_2022": 71.0190632038,
+      "Native Tokens AI Autopilot Risky_2022": 63.8828012409,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-10-05T00:00:00.000",
+      "Bitcoin_2022": 43.3193781845,
+      "Native Tokens_2022": 57.3921003312,
+      "Native Tokens AI Autopilot Prudent_2022": 70.920488325,
+      "Native Tokens AI Autopilot Risky_2022": 63.7421254909,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-10-06T00:00:00.000",
+      "Bitcoin_2022": 43.3777950865,
+      "Native Tokens_2022": 58.4037176952,
+      "Native Tokens AI Autopilot Prudent_2022": 71.6363349197,
+      "Native Tokens AI Autopilot Risky_2022": 64.763706829,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-10-07T00:00:00.000",
+      "Bitcoin_2022": 42.2960006058,
+      "Native Tokens_2022": 58.2587357192,
+      "Native Tokens AI Autopilot Prudent_2022": 71.5797859018,
+      "Native Tokens AI Autopilot Risky_2022": 64.6830059891,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-10-10T00:00:00.000",
+      "Bitcoin_2022": 41.6339423836,
+      "Native Tokens_2022": 56.8861453964,
+      "Native Tokens AI Autopilot Prudent_2022": 70.6534984199,
+      "Native Tokens AI Autopilot Risky_2022": 63.361105442,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-10-11T00:00:00.000",
+      "Bitcoin_2022": 41.164443579,
+      "Native Tokens_2022": 56.0319508256,
+      "Native Tokens AI Autopilot Prudent_2022": 70.0969128852,
+      "Native Tokens AI Autopilot Risky_2022": 62.5668048203,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-10-12T00:00:00.000",
+      "Bitcoin_2022": 41.4284014323,
+      "Native Tokens_2022": 56.0019438604,
+      "Native Tokens AI Autopilot Prudent_2022": 70.0705487478,
+      "Native Tokens AI Autopilot Risky_2022": 62.5291806828,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-10-13T00:00:00.000",
+      "Bitcoin_2022": 41.9346812493,
+      "Native Tokens_2022": 54.199637785,
+      "Native Tokens AI Autopilot Prudent_2022": 68.8451928659,
+      "Native Tokens AI Autopilot Risky_2022": 60.7804810163,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-10-14T00:00:00.000",
+      "Bitcoin_2022": 41.5127814018,
+      "Native Tokens_2022": 55.8603688056,
+      "Native Tokens AI Autopilot Prudent_2022": 69.9164914819,
+      "Native Tokens AI Autopilot Risky_2022": 62.3093262768,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-10-17T00:00:00.000",
+      "Bitcoin_2022": 42.2484016487,
+      "Native Tokens_2022": 55.9199254768,
+      "Native Tokens AI Autopilot Prudent_2022": 69.931731335,
+      "Native Tokens AI Autopilot Risky_2022": 62.3310750001,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-10-18T00:00:00.000",
+      "Bitcoin_2022": 41.9152089486,
+      "Native Tokens_2022": 55.4270097194,
+      "Native Tokens AI Autopilot Prudent_2022": 69.5581688686,
+      "Native Tokens AI Autopilot Risky_2022": 61.8843743295,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-10-19T00:00:00.000",
+      "Bitcoin_2022": 41.5322537024,
+      "Native Tokens_2022": 55.257016751,
+      "Native Tokens AI Autopilot Prudent_2022": 69.4372142602,
+      "Native Tokens AI Autopilot Risky_2022": 61.7387967345,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-10-20T00:00:00.000",
+      "Bitcoin_2022": 41.1557892232,
+      "Native Tokens_2022": 55.1027182103,
+      "Native Tokens AI Autopilot Prudent_2022": 69.2874574789,
+      "Native Tokens AI Autopilot Risky_2022": 61.5636438737,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-10-21T00:00:00.000",
+      "Bitcoin_2022": 41.4954726901,
+      "Native Tokens_2022": 54.3017736391,
+      "Native Tokens AI Autopilot Prudent_2022": 68.6648770377,
+      "Native Tokens AI Autopilot Risky_2022": 60.8210332534,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-10-24T00:00:00.000",
+      "Bitcoin_2022": 41.9173725376,
+      "Native Tokens_2022": 55.2795955083,
+      "Native Tokens AI Autopilot Prudent_2022": 69.4421626885,
+      "Native Tokens AI Autopilot Risky_2022": 61.7461683131,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-10-25T00:00:00.000",
+      "Bitcoin_2022": 43.6439165287,
+      "Native Tokens_2022": 56.2365685771,
+      "Native Tokens AI Autopilot Prudent_2022": 70.165813116,
+      "Native Tokens AI Autopilot Risky_2022": 62.6197811549,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-10-26T00:00:00.000",
+      "Bitcoin_2022": 44.9031253043,
+      "Native Tokens_2022": 58.6797788183,
+      "Native Tokens AI Autopilot Prudent_2022": 71.9517647126,
+      "Native Tokens AI Autopilot Risky_2022": 64.7867713319,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-10-27T00:00:00.000",
+      "Bitcoin_2022": 44.1761594132,
+      "Native Tokens_2022": 58.3936474393,
+      "Native Tokens AI Autopilot Prudent_2022": 71.7522431195,
+      "Native Tokens AI Autopilot Risky_2022": 64.5429107673,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-10-28T00:00:00.000",
+      "Bitcoin_2022": 44.6759484633,
+      "Native Tokens_2022": 58.0926578294,
+      "Native Tokens AI Autopilot Prudent_2022": 71.5346812012,
+      "Native Tokens AI Autopilot Risky_2022": 64.2784798755,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-10-31T00:00:00.000",
+      "Bitcoin_2022": 44.1523599347,
+      "Native Tokens_2022": 59.6058911782,
+      "Native Tokens AI Autopilot Prudent_2022": 72.7999717298,
+      "Native Tokens AI Autopilot Risky_2022": 65.7844872399,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-11-01T00:00:00.000",
+      "Bitcoin_2022": 44.3124655178,
+      "Native Tokens_2022": 59.3455680051,
+      "Native Tokens AI Autopilot Prudent_2022": 72.5748153016,
+      "Native Tokens AI Autopilot Risky_2022": 65.5319602496,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-11-02T00:00:00.000",
+      "Bitcoin_2022": 43.687188308,
+      "Native Tokens_2022": 58.7380144739,
+      "Native Tokens AI Autopilot Prudent_2022": 72.0472307991,
+      "Native Tokens AI Autopilot Risky_2022": 64.9363132209,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-11-03T00:00:00.000",
+      "Bitcoin_2022": 43.7910405781,
+      "Native Tokens_2022": 58.7519384759,
+      "Native Tokens AI Autopilot Prudent_2022": 72.0663690412,
+      "Native Tokens AI Autopilot Risky_2022": 64.9710203217,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-11-04T00:00:00.000",
+      "Bitcoin_2022": 45.7534157661,
+      "Native Tokens_2022": 59.8525776008,
+      "Native Tokens AI Autopilot Prudent_2022": 72.9639062267,
+      "Native Tokens AI Autopilot Risky_2022": 65.8760998112,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-11-07T00:00:00.000",
+      "Bitcoin_2022": 44.7148930646,
+      "Native Tokens_2022": 59.7430894313,
+      "Native Tokens AI Autopilot Prudent_2022": 72.889505786,
+      "Native Tokens AI Autopilot Risky_2022": 65.830537171,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-11-08T00:00:00.000",
+      "Bitcoin_2022": 40.4829130562,
+      "Native Tokens_2022": 59.3491616063,
+      "Native Tokens AI Autopilot Prudent_2022": 72.5777852179,
+      "Native Tokens AI Autopilot Risky_2022": 65.5657040043,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-11-09T00:00:00.000",
+      "Bitcoin_2022": 34.1587425221,
+      "Native Tokens_2022": 52.2559614893,
+      "Native Tokens AI Autopilot Prudent_2022": 66.5163577483,
+      "Native Tokens AI Autopilot Risky_2022": 59.105338253,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-11-10T00:00:00.000",
+      "Bitcoin_2022": 38.5270286351,
+      "Native Tokens_2022": 54.5117763262,
+      "Native Tokens AI Autopilot Prudent_2022": 68.4013809189,
+      "Native Tokens AI Autopilot Risky_2022": 60.9989719204,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-11-11T00:00:00.000",
+      "Bitcoin_2022": 36.289877649,
+      "Native Tokens_2022": 54.4010444053,
+      "Native Tokens AI Autopilot Prudent_2022": 68.4311077834,
+      "Native Tokens AI Autopilot Risky_2022": 61.3671806844,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-11-14T00:00:00.000",
+      "Bitcoin_2022": 35.4677138437,
+      "Native Tokens_2022": 53.0742896346,
+      "Native Tokens AI Autopilot Prudent_2022": 67.2632341512,
+      "Native Tokens AI Autopilot Risky_2022": 60.0301385676,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-11-15T00:00:00.000",
+      "Bitcoin_2022": 36.5213816679,
+      "Native Tokens_2022": 53.3876253296,
+      "Native Tokens AI Autopilot Prudent_2022": 67.4794561723,
+      "Native Tokens AI Autopilot Risky_2022": 60.3200985271,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-11-16T00:00:00.000",
+      "Bitcoin_2022": 35.7814342431,
+      "Native Tokens_2022": 53.2162097874,
+      "Native Tokens AI Autopilot Prudent_2022": 67.4239917867,
+      "Native Tokens AI Autopilot Risky_2022": 60.2457191885,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-11-17T00:00:00.000",
+      "Bitcoin_2022": 36.0908274646,
+      "Native Tokens_2022": 51.9020006066,
+      "Native Tokens AI Autopilot Prudent_2022": 66.430378606,
+      "Native Tokens AI Autopilot Risky_2022": 58.9132552875,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-11-18T00:00:00.000",
+      "Bitcoin_2022": 36.0021203172,
+      "Native Tokens_2022": 52.5368497072,
+      "Native Tokens AI Autopilot Prudent_2022": 66.8679854987,
+      "Native Tokens AI Autopilot Risky_2022": 59.5000987377,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-11-21T00:00:00.000",
+      "Bitcoin_2022": 33.7563149753,
+      "Native Tokens_2022": 50.0985981503,
+      "Native Tokens AI Autopilot Prudent_2022": 65.1446075806,
+      "Native Tokens AI Autopilot Risky_2022": 57.1889993002,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-11-22T00:00:00.000",
+      "Bitcoin_2022": 34.9138350696,
+      "Native Tokens_2022": 50.0059763302,
+      "Native Tokens AI Autopilot Prudent_2022": 65.0432112163,
+      "Native Tokens AI Autopilot Risky_2022": 57.0627973743,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-11-23T00:00:00.000",
+      "Bitcoin_2022": 35.6602732613,
+      "Native Tokens_2022": 51.356148941,
+      "Native Tokens AI Autopilot Prudent_2022": 66.1147982391,
+      "Native Tokens AI Autopilot Risky_2022": 58.3965369737,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-11-24T00:00:00.000",
+      "Bitcoin_2022": 35.7792706542,
+      "Native Tokens_2022": 51.9201357633,
+      "Native Tokens AI Autopilot Prudent_2022": 66.5329124951,
+      "Native Tokens AI Autopilot Risky_2022": 58.9169385173,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-11-25T00:00:00.000",
+      "Bitcoin_2022": 35.7057086295,
+      "Native Tokens_2022": 51.6510947994,
+      "Native Tokens AI Autopilot Prudent_2022": 66.3244924406,
+      "Native Tokens AI Autopilot Risky_2022": 58.6575306725,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-11-28T00:00:00.000",
+      "Bitcoin_2022": 35.0349960515,
+      "Native Tokens_2022": 50.5884596276,
+      "Native Tokens AI Autopilot Prudent_2022": 65.5231767245,
+      "Native Tokens AI Autopilot Risky_2022": 57.6601814326,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-11-29T00:00:00.000",
+      "Bitcoin_2022": 35.5996927704,
+      "Native Tokens_2022": 51.4898470121,
+      "Native Tokens AI Autopilot Prudent_2022": 66.2022701177,
+      "Native Tokens AI Autopilot Risky_2022": 58.5054079345,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-11-30T00:00:00.000",
+      "Bitcoin_2022": 37.0016984173,
+      "Native Tokens_2022": 52.4768393542,
+      "Native Tokens AI Autopilot Prudent_2022": 66.9707684515,
+      "Native Tokens AI Autopilot Risky_2022": 59.4619113619,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-12-01T00:00:00.000",
+      "Bitcoin_2022": 36.6317247049,
+      "Native Tokens_2022": 52.0886691688,
+      "Native Tokens AI Autopilot Prudent_2022": 66.5948596333,
+      "Native Tokens AI Autopilot Risky_2022": 58.9940403769,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-12-02T00:00:00.000",
+      "Bitcoin_2022": 36.8156297667,
+      "Native Tokens_2022": 52.2231426033,
+      "Native Tokens AI Autopilot Prudent_2022": 66.7221946901,
+      "Native Tokens AI Autopilot Risky_2022": 59.1525266255,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-12-05T00:00:00.000",
+      "Bitcoin_2022": 36.7161046744,
+      "Native Tokens_2022": 52.2992589753,
+      "Native Tokens AI Autopilot Prudent_2022": 66.7771900352,
+      "Native Tokens AI Autopilot Risky_2022": 59.2209760078,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-12-06T00:00:00.000",
+      "Bitcoin_2022": 36.8393616331,
+      "Native Tokens_2022": 52.1030499534,
+      "Native Tokens AI Autopilot Prudent_2022": 66.6127964489,
+      "Native Tokens AI Autopilot Risky_2022": 59.0257035555,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-12-07T00:00:00.000",
+      "Bitcoin_2022": 36.4196929867,
+      "Native Tokens_2022": 51.55508561,
+      "Native Tokens AI Autopilot Prudent_2022": 66.1761529281,
+      "Native Tokens AI Autopilot Risky_2022": 58.5449476736,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-12-08T00:00:00.000",
+      "Bitcoin_2022": 37.1661311784,
+      "Native Tokens_2022": 51.5219741936,
+      "Native Tokens AI Autopilot Prudent_2022": 66.1235663083,
+      "Native Tokens AI Autopilot Risky_2022": 58.4405700579,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-12-09T00:00:00.000",
+      "Bitcoin_2022": 37.0168435401,
+      "Native Tokens_2022": 51.4468315801,
+      "Native Tokens AI Autopilot Prudent_2022": 66.0528805213,
+      "Native Tokens AI Autopilot Risky_2022": 58.3435701835,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-12-12T00:00:00.000",
+      "Bitcoin_2022": 37.1120414544,
+      "Native Tokens_2022": 51.3014856453,
+      "Native Tokens AI Autopilot Prudent_2022": 65.9306581984,
+      "Native Tokens AI Autopilot Risky_2022": 58.1976406157,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-12-13T00:00:00.000",
+      "Bitcoin_2022": 38.4339943098,
+      "Native Tokens_2022": 52.5833708477,
+      "Native Tokens AI Autopilot Prudent_2022": 66.9519552953,
+      "Native Tokens AI Autopilot Risky_2022": 59.3414171283,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-12-14T00:00:00.000",
+      "Bitcoin_2022": 38.5508281137,
+      "Native Tokens_2022": 52.5147157075,
+      "Native Tokens AI Autopilot Prudent_2022": 66.8584212391,
+      "Native Tokens AI Autopilot Risky_2022": 59.1770586785,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-12-15T00:00:00.000",
+      "Bitcoin_2022": 37.6118305044,
+      "Native Tokens_2022": 51.5237798679,
+      "Native Tokens AI Autopilot Prudent_2022": 66.0798142234,
+      "Native Tokens AI Autopilot Risky_2022": 58.3217860779,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-12-16T00:00:00.000",
+      "Bitcoin_2022": 36.4240201646,
+      "Native Tokens_2022": 50.3387421799,
+      "Native Tokens AI Autopilot Prudent_2022": 65.1316505676,
+      "Native Tokens AI Autopilot Risky_2022": 57.2537335402,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-12-19T00:00:00.000",
+      "Bitcoin_2022": 35.8787957464,
+      "Native Tokens_2022": 49.2010734049,
+      "Native Tokens AI Autopilot Prudent_2022": 64.1946684604,
+      "Native Tokens AI Autopilot Risky_2022": 56.1574405526,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-12-20T00:00:00.000",
+      "Bitcoin_2022": 36.5278724348,
+      "Native Tokens_2022": 48.9895137448,
+      "Native Tokens AI Autopilot Prudent_2022": 64.0165288857,
+      "Native Tokens AI Autopilot Risky_2022": 55.9404624445,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-12-21T00:00:00.000",
+      "Bitcoin_2022": 36.3266586614,
+      "Native Tokens_2022": 49.0498547534,
+      "Native Tokens AI Autopilot Prudent_2022": 64.0615779006,
+      "Native Tokens AI Autopilot Risky_2022": 55.9899644169,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-12-22T00:00:00.000",
+      "Bitcoin_2022": 36.3288222503,
+      "Native Tokens_2022": 49.2246045326,
+      "Native Tokens AI Autopilot Prudent_2022": 64.2305924116,
+      "Native Tokens AI Autopilot Risky_2022": 56.2162127561,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-12-23T00:00:00.000",
+      "Bitcoin_2022": 36.3807483854,
+      "Native Tokens_2022": 49.432148194,
+      "Native Tokens AI Autopilot Prudent_2022": 64.3730093154,
+      "Native Tokens AI Autopilot Risky_2022": 56.3595350325,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-12-26T00:00:00.000",
+      "Bitcoin_2022": 36.3937299192,
+      "Native Tokens_2022": 49.432148194,
+      "Native Tokens AI Autopilot Prudent_2022": 64.3730093154,
+      "Native Tokens AI Autopilot Risky_2022": 56.3595350325,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-12-27T00:00:00.000",
+      "Bitcoin_2022": 36.1276084769,
+      "Native Tokens_2022": 48.8289885772,
+      "Native Tokens AI Autopilot Prudent_2022": 63.8428356354,
+      "Native Tokens AI Autopilot Risky_2022": 55.770362452,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-12-28T00:00:00.000",
+      "Bitcoin_2022": 35.7359988749,
+      "Native Tokens_2022": 48.4030054126,
+      "Native Tokens AI Autopilot Prudent_2022": 63.5073256523,
+      "Native Tokens AI Autopilot Risky_2022": 55.414148658,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-12-29T00:00:00.000",
+      "Bitcoin_2022": 35.9134131698,
+      "Native Tokens_2022": 48.2009997765,
+      "Native Tokens AI Autopilot Prudent_2022": 63.3121508679,
+      "Native Tokens AI Autopilot Risky_2022": 55.1897287359,
+      "year": "2022"
+    },
+    {
+      "Date": "2022-12-30T00:00:00.000",
+      "Bitcoin_2022": 35.9134131698,
+      "Native Tokens_2022": 48.0123594391,
+      "Native Tokens AI Autopilot Prudent_2022": 63.1598333493,
+      "Native Tokens AI Autopilot Risky_2022": 55.0262276102,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-01-02T00:00:00.000",
+      "Bitcoin_2022": 36.1860253789,
+      "Native Tokens_2022": 48.0194324915,
+      "Native Tokens AI Autopilot Prudent_2022": 63.1678645259,
+      "Native Tokens AI Autopilot Risky_2022": 55.0359275977,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-01-03T00:00:00.000",
+      "Bitcoin_2022": 36.0605372191,
+      "Native Tokens_2022": 49.2486323517,
+      "Native Tokens AI Autopilot Prudent_2022": 64.2206445465,
+      "Native Tokens AI Autopilot Risky_2022": 56.2693253089,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-01-04T00:00:00.000",
+      "Bitcoin_2022": 36.3915663302,
+      "Native Tokens_2022": 49.9297301126,
+      "Native Tokens AI Autopilot Prudent_2022": 64.7537558615,
+      "Native Tokens AI Autopilot Risky_2022": 56.9063650828,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-01-05T00:00:00.000",
+      "Bitcoin_2022": 36.4478196432,
+      "Native Tokens_2022": 49.8999043781,
+      "Native Tokens AI Autopilot Prudent_2022": 64.7184186847,
+      "Native Tokens AI Autopilot Risky_2022": 56.8673955441,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-01-06T00:00:00.000",
+      "Bitcoin_2022": 36.627397527,
+      "Native Tokens_2022": 50.093134466,
+      "Native Tokens AI Autopilot Prudent_2022": 64.9658862841,
+      "Native Tokens AI Autopilot Risky_2022": 57.1369761853,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-01-09T00:00:00.000",
+      "Bitcoin_2022": 37.1920942459,
+      "Native Tokens_2022": 49.5576269608,
+      "Native Tokens AI Autopilot Prudent_2022": 64.3314233375,
+      "Native Tokens AI Autopilot Risky_2022": 56.4372958299,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-01-10T00:00:00.000",
+      "Bitcoin_2022": 37.8087170999,
+      "Native Tokens_2022": 49.5678976675,
+      "Native Tokens AI Autopilot Prudent_2022": 64.3426669846,
+      "Native Tokens AI Autopilot Risky_2022": 56.4496952286,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-01-11T00:00:00.000",
+      "Bitcoin_2022": 37.9839678058,
+      "Native Tokens_2022": 51.9691435099,
+      "Native Tokens AI Autopilot Prudent_2022": 66.4855397744,
+      "Native Tokens AI Autopilot Risky_2022": 58.9517285613,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-01-12T00:00:00.000",
+      "Bitcoin_2022": 40.7230714309,
+      "Native Tokens_2022": 53.0175693819,
+      "Native Tokens AI Autopilot Prudent_2022": 67.305080728,
+      "Native Tokens AI Autopilot Risky_2022": 59.9493369449,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-01-13T00:00:00.000",
+      "Bitcoin_2022": 42.8780060364,
+      "Native Tokens_2022": 53.868011122,
+      "Native Tokens AI Autopilot Prudent_2022": 67.9259724522,
+      "Native Tokens AI Autopilot Risky_2022": 60.7227051553,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-01-16T00:00:00.000",
+      "Bitcoin_2022": 45.7144711648,
+      "Native Tokens_2022": 57.2565396102,
+      "Native Tokens AI Autopilot Prudent_2022": 70.7322936737,
+      "Native Tokens AI Autopilot Risky_2022": 64.0756974117,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-01-17T00:00:00.000",
+      "Bitcoin_2022": 46.149352546,
+      "Native Tokens_2022": 57.5446185554,
+      "Native Tokens AI Autopilot Prudent_2022": 70.920463869,
+      "Native Tokens AI Autopilot Risky_2022": 64.2899903389,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-01-18T00:00:00.000",
+      "Bitcoin_2022": 44.9485606724,
+      "Native Tokens_2022": 55.8671329006,
+      "Native Tokens AI Autopilot Prudent_2022": 69.4593767562,
+      "Native Tokens AI Autopilot Risky_2022": 62.6260677744,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-01-19T00:00:00.000",
+      "Bitcoin_2022": 45.30771644,
+      "Native Tokens_2022": 56.3873219512,
+      "Native Tokens AI Autopilot Prudent_2022": 69.9770147059,
+      "Native Tokens AI Autopilot Risky_2022": 63.2155668241,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-01-20T00:00:00.000",
+      "Bitcoin_2022": 48.3259230411,
+      "Native Tokens_2022": 56.8665845714,
+      "Native Tokens AI Autopilot Prudent_2022": 70.3431893282,
+      "Native Tokens AI Autopilot Risky_2022": 63.6325756467,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-01-23T00:00:00.000",
+      "Bitcoin_2022": 49.7387466329,
+      "Native Tokens_2022": 59.0176236588,
+      "Native Tokens AI Autopilot Prudent_2022": 71.9426970815,
+      "Native Tokens AI Autopilot Risky_2022": 65.4541351009,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-01-24T00:00:00.000",
+      "Bitcoin_2022": 49.5461872154,
+      "Native Tokens_2022": 59.5559113891,
+      "Native Tokens AI Autopilot Prudent_2022": 72.4358207383,
+      "Native Tokens AI Autopilot Risky_2022": 66.0027414293,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-01-25T00:00:00.000",
+      "Bitcoin_2022": 51.0087733532,
+      "Native Tokens_2022": 58.0962479102,
+      "Native Tokens AI Autopilot Prudent_2022": 71.1305188617,
+      "Native Tokens AI Autopilot Risky_2022": 64.6238424155,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-01-26T00:00:00.000",
+      "Bitcoin_2022": 49.9096701609,
+      "Native Tokens_2022": 59.6828303339,
+      "Native Tokens AI Autopilot Prudent_2022": 72.5363365168,
+      "Native Tokens AI Autopilot Risky_2022": 66.0783730733,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-01-27T00:00:00.000",
+      "Bitcoin_2022": 49.9724142407,
+      "Native Tokens_2022": 58.557193643,
+      "Native Tokens AI Autopilot Prudent_2022": 71.5177425111,
+      "Native Tokens AI Autopilot Risky_2022": 64.974116967,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-01-30T00:00:00.000",
+      "Bitcoin_2022": 49.1827042698,
+      "Native Tokens_2022": 58.8662365466,
+      "Native Tokens AI Autopilot Prudent_2022": 71.7981955949,
+      "Native Tokens AI Autopilot Risky_2022": 65.2800132782,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-01-31T00:00:00.000",
+      "Bitcoin_2022": 49.6543666634,
+      "Native Tokens_2022": 58.5800036602,
+      "Native Tokens AI Autopilot Prudent_2022": 71.5698552653,
+      "Native Tokens AI Autopilot Risky_2022": 65.0178157206,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-02-01T00:00:00.000",
+      "Bitcoin_2022": 51.2294594273,
+      "Native Tokens_2022": 58.4480572808,
+      "Native Tokens AI Autopilot Prudent_2022": 71.4186847167,
+      "Native Tokens AI Autopilot Risky_2022": 64.8454308976,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-02-02T00:00:00.000",
+      "Bitcoin_2022": 51.0563723104,
+      "Native Tokens_2022": 60.6514920032,
+      "Native Tokens AI Autopilot Prudent_2022": 73.1787552737,
+      "Native Tokens AI Autopilot Risky_2022": 66.8664163933,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-02-03T00:00:00.000",
+      "Bitcoin_2022": 50.5998550395,
+      "Native Tokens_2022": 59.7668229454,
+      "Native Tokens AI Autopilot Prudent_2022": 72.4842443718,
+      "Native Tokens AI Autopilot Risky_2022": 66.0686330801,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-02-06T00:00:00.000",
+      "Bitcoin_2022": 49.5851318167,
+      "Native Tokens_2022": 59.6022041293,
+      "Native Tokens AI Autopilot Prudent_2022": 72.3970365238,
+      "Native Tokens AI Autopilot Risky_2022": 65.9673408347,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-02-07T00:00:00.000",
+      "Bitcoin_2022": 50.1974274927,
+      "Native Tokens_2022": 59.4580068878,
+      "Native Tokens AI Autopilot Prudent_2022": 72.2890502195,
+      "Native Tokens AI Autopilot Risky_2022": 65.8430908267,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-02-08T00:00:00.000",
+      "Bitcoin_2022": 49.676002553,
+      "Native Tokens_2022": 60.3806540244,
+      "Native Tokens AI Autopilot Prudent_2022": 73.0588294943,
+      "Native Tokens AI Autopilot Risky_2022": 66.7263424868,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-02-09T00:00:00.000",
+      "Bitcoin_2022": 47.2549465053,
+      "Native Tokens_2022": 59.6732005261,
+      "Native Tokens AI Autopilot Prudent_2022": 72.5143928332,
+      "Native Tokens AI Autopilot Risky_2022": 66.1003662558,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-02-10T00:00:00.000",
+      "Bitcoin_2022": 46.6101969948,
+      "Native Tokens_2022": 57.6579669837,
+      "Native Tokens AI Autopilot Prudent_2022": 70.9418422758,
+      "Native Tokens AI Autopilot Risky_2022": 64.2929561765,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-02-13T00:00:00.000",
+      "Bitcoin_2022": 46.7789569338,
+      "Native Tokens_2022": 56.9089756238,
+      "Native Tokens AI Autopilot Prudent_2022": 70.3070972709,
+      "Native Tokens AI Autopilot Risky_2022": 63.5649203166,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-02-14T00:00:00.000",
+      "Bitcoin_2022": 48.1420179794,
+      "Native Tokens_2022": 56.5266441113,
+      "Native Tokens AI Autopilot Prudent_2022": 69.7682277957,
+      "Native Tokens AI Autopilot Risky_2022": 63.0240444823,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-02-15T00:00:00.000",
+      "Bitcoin_2022": 52.3004359632,
+      "Native Tokens_2022": 58.9349388968,
+      "Native Tokens AI Autopilot Prudent_2022": 71.6815073485,
+      "Native Tokens AI Autopilot Risky_2022": 65.3487679072,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-02-16T00:00:00.000",
+      "Bitcoin_2022": 53.0512013328,
+      "Native Tokens_2022": 61.4840698039,
+      "Native Tokens AI Autopilot Prudent_2022": 73.1990540937,
+      "Native Tokens AI Autopilot Risky_2022": 67.4385084497,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-02-17T00:00:00.000",
+      "Bitcoin_2022": 53.209143327,
+      "Native Tokens_2022": 60.463825993,
+      "Native Tokens AI Autopilot Prudent_2022": 72.568009128,
+      "Native Tokens AI Autopilot Risky_2022": 66.5848280339,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-02-20T00:00:00.000",
+      "Bitcoin_2022": 53.5747898614,
+      "Native Tokens_2022": 62.4023851197,
+      "Native Tokens AI Autopilot Prudent_2022": 74.0243853336,
+      "Native Tokens AI Autopilot Risky_2022": 68.3949399415,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-02-21T00:00:00.000",
+      "Bitcoin_2022": 52.3220718528,
+      "Native Tokens_2022": 61.0207871494,
+      "Native Tokens AI Autopilot Prudent_2022": 72.980304033,
+      "Native Tokens AI Autopilot Risky_2022": 67.1512934698,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-02-22T00:00:00.000",
+      "Bitcoin_2022": 51.5020716364,
+      "Native Tokens_2022": 59.8969242064,
+      "Native Tokens AI Autopilot Prudent_2022": 72.1426044629,
+      "Native Tokens AI Autopilot Risky_2022": 66.1534764281,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-02-23T00:00:00.000",
+      "Bitcoin_2022": 51.7032854098,
+      "Native Tokens_2022": 60.5911211433,
+      "Native Tokens AI Autopilot Prudent_2022": 72.7089783644,
+      "Native Tokens AI Autopilot Risky_2022": 66.8281067503,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-02-24T00:00:00.000",
+      "Bitcoin_2022": 50.0459762654,
+      "Native Tokens_2022": 59.8216138327,
+      "Native Tokens AI Autopilot Prudent_2022": 72.1915573668,
+      "Native Tokens AI Autopilot Risky_2022": 66.2117861653,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-02-27T00:00:00.000",
+      "Bitcoin_2022": 50.5976914506,
+      "Native Tokens_2022": 59.1213820719,
+      "Native Tokens AI Autopilot Prudent_2022": 71.5423330254,
+      "Native Tokens AI Autopilot Risky_2022": 65.438469412,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-02-28T00:00:00.000",
+      "Bitcoin_2022": 50.1065567563,
+      "Native Tokens_2022": 59.2913604038,
+      "Native Tokens AI Autopilot Prudent_2022": 71.723569762,
+      "Native Tokens AI Autopilot Risky_2022": 65.6404095966,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-03-01T00:00:00.000",
+      "Bitcoin_2022": 50.9352113286,
+      "Native Tokens_2022": 59.3885720919,
+      "Native Tokens AI Autopilot Prudent_2022": 71.7283158648,
+      "Native Tokens AI Autopilot Risky_2022": 65.6831302668,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-03-02T00:00:00.000",
+      "Bitcoin_2022": 50.686398598,
+      "Native Tokens_2022": 58.5557578542,
+      "Native Tokens AI Autopilot Prudent_2022": 71.1658772812,
+      "Native Tokens AI Autopilot Risky_2022": 64.9332358467,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-03-03T00:00:00.000",
+      "Bitcoin_2022": 48.1312000346,
+      "Native Tokens_2022": 57.9188564351,
+      "Native Tokens AI Autopilot Prudent_2022": 70.9129275162,
+      "Native Tokens AI Autopilot Risky_2022": 64.4901103792,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-03-06T00:00:00.000",
+      "Bitcoin_2022": 48.4665563236,
+      "Native Tokens_2022": 57.3807167851,
+      "Native Tokens AI Autopilot Prudent_2022": 70.421533419,
+      "Native Tokens AI Autopilot Risky_2022": 63.9114004482,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-03-07T00:00:00.000",
+      "Bitcoin_2022": 47.7071365982,
+      "Native Tokens_2022": 57.1554660917,
+      "Native Tokens AI Autopilot Prudent_2022": 70.2944121799,
+      "Native Tokens AI Autopilot Risky_2022": 63.8031030175,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-03-08T00:00:00.000",
+      "Bitcoin_2022": 47.6119386839,
+      "Native Tokens_2022": 56.4607258691,
+      "Native Tokens AI Autopilot Prudent_2022": 69.7045099574,
+      "Native Tokens AI Autopilot Risky_2022": 63.1449406099,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-03-09T00:00:00.000",
+      "Bitcoin_2022": 43.799694934,
+      "Native Tokens_2022": 56.286904317,
+      "Native Tokens AI Autopilot Prudent_2022": 69.6185071243,
+      "Native Tokens AI Autopilot Risky_2022": 63.0811863858,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-03-10T00:00:00.000",
+      "Bitcoin_2022": 43.4686658229,
+      "Native Tokens_2022": 54.8397144958,
+      "Native Tokens AI Autopilot Prudent_2022": 68.6385733543,
+      "Native Tokens AI Autopilot Risky_2022": 62.1179776695,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-03-13T00:00:00.000",
+      "Bitcoin_2022": 52.198747282,
+      "Native Tokens_2022": 55.7177964148,
+      "Native Tokens AI Autopilot Prudent_2022": 68.6540941197,
+      "Native Tokens AI Autopilot Risky_2022": 61.7535990388,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-03-14T00:00:00.000",
+      "Bitcoin_2022": 53.3843940328,
+      "Native Tokens_2022": 59.6932470154,
+      "Native Tokens AI Autopilot Prudent_2022": 71.9487989757,
+      "Native Tokens AI Autopilot Risky_2022": 65.2907053049,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-03-15T00:00:00.000",
+      "Bitcoin_2022": 52.7288265775,
+      "Native Tokens_2022": 57.9825503901,
+      "Native Tokens AI Autopilot Prudent_2022": 70.5353880702,
+      "Native Tokens AI Autopilot Risky_2022": 63.7770407484,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-03-16T00:00:00.000",
+      "Bitcoin_2022": 53.4428109348,
+      "Native Tokens_2022": 56.8571071664,
+      "Native Tokens AI Autopilot Prudent_2022": 69.5535599182,
+      "Native Tokens AI Autopilot Risky_2022": 62.6808177162,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-03-17T00:00:00.000",
+      "Bitcoin_2022": 57.964711864,
+      "Native Tokens_2022": 58.6977794924,
+      "Native Tokens AI Autopilot Prudent_2022": 71.0144062817,
+      "Native Tokens AI Autopilot Risky_2022": 64.1936493784,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-03-20T00:00:00.000",
+      "Bitcoin_2022": 60.6821795995,
+      "Native Tokens_2022": 60.139240906,
+      "Native Tokens AI Autopilot Prudent_2022": 72.217234878,
+      "Native Tokens AI Autopilot Risky_2022": 65.4920134454,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-03-21T00:00:00.000",
+      "Bitcoin_2022": 60.8336308268,
+      "Native Tokens_2022": 60.3007410865,
+      "Native Tokens AI Autopilot Prudent_2022": 72.3184267438,
+      "Native Tokens AI Autopilot Risky_2022": 65.5858110043,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-03-22T00:00:00.000",
+      "Bitcoin_2022": 59.1957939831,
+      "Native Tokens_2022": 59.9735122334,
+      "Native Tokens AI Autopilot Prudent_2022": 71.8677131494,
+      "Native Tokens AI Autopilot Risky_2022": 65.1680320208,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-03-23T00:00:00.000",
+      "Bitcoin_2022": 61.2555306743,
+      "Native Tokens_2022": 60.0941547632,
+      "Native Tokens AI Autopilot Prudent_2022": 71.9919606432,
+      "Native Tokens AI Autopilot Risky_2022": 65.2832004832,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-03-24T00:00:00.000",
+      "Bitcoin_2022": 59.7842901806,
+      "Native Tokens_2022": 59.2959361056,
+      "Native Tokens AI Autopilot Prudent_2022": 71.2588779674,
+      "Native Tokens AI Autopilot Risky_2022": 64.6036857337,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-03-27T00:00:00.000",
+      "Bitcoin_2022": 58.5056091044,
+      "Native Tokens_2022": 57.6088488973,
+      "Native Tokens AI Autopilot Prudent_2022": 69.6526353597,
+      "Native Tokens AI Autopilot Risky_2022": 63.1148147247,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-03-28T00:00:00.000",
+      "Bitcoin_2022": 59.1287227253,
+      "Native Tokens_2022": 57.5531139478,
+      "Native Tokens AI Autopilot Prudent_2022": 69.573466713,
+      "Native Tokens AI Autopilot Risky_2022": 63.0414311012,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-03-29T00:00:00.000",
+      "Bitcoin_2022": 61.4134726685,
+      "Native Tokens_2022": 59.8286229752,
+      "Native Tokens AI Autopilot Prudent_2022": 71.6328631068,
+      "Native Tokens AI Autopilot Risky_2022": 64.9503429754,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-03-30T00:00:00.000",
+      "Bitcoin_2022": 60.9136836184,
+      "Native Tokens_2022": 59.8773015119,
+      "Native Tokens AI Autopilot Prudent_2022": 71.6337700588,
+      "Native Tokens AI Autopilot Risky_2022": 64.9511836545,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-03-31T00:00:00.000",
+      "Bitcoin_2022": 61.4286177912,
+      "Native Tokens_2022": 59.0367548718,
+      "Native Tokens AI Autopilot Prudent_2022": 70.7511543192,
+      "Native Tokens AI Autopilot Risky_2022": 64.1330625435,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-04-03T00:00:00.000",
+      "Bitcoin_2022": 59.6566384318,
+      "Native Tokens_2022": 59.6460031451,
+      "Native Tokens AI Autopilot Prudent_2022": 71.4374344929,
+      "Native Tokens AI Autopilot Risky_2022": 64.7691947503,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-04-04T00:00:00.000",
+      "Bitcoin_2022": 61.1560055821,
+      "Native Tokens_2022": 60.2842704113,
+      "Native Tokens AI Autopilot Prudent_2022": 72.1489875916,
+      "Native Tokens AI Autopilot Risky_2022": 65.4287531351,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-04-05T00:00:00.000",
+      "Bitcoin_2022": 60.9807548762,
+      "Native Tokens_2022": 60.5694964844,
+      "Native Tokens AI Autopilot Prudent_2022": 72.4075195498,
+      "Native Tokens AI Autopilot Risky_2022": 65.6683936075,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-04-06T00:00:00.000",
+      "Bitcoin_2022": 60.541546317,
+      "Native Tokens_2022": 60.6411534772,
+      "Native Tokens AI Autopilot Prudent_2022": 72.5375147108,
+      "Native Tokens AI Autopilot Risky_2022": 65.7888897427,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-04-07T00:00:00.000",
+      "Bitcoin_2022": 60.2667705189,
+      "Native Tokens_2022": 60.6411534772,
+      "Native Tokens AI Autopilot Prudent_2022": 72.5375147108,
+      "Native Tokens AI Autopilot Risky_2022": 65.7888897427,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-04-10T00:00:00.000",
+      "Bitcoin_2022": 62.9842382544,
+      "Native Tokens_2022": 60.6411534772,
+      "Native Tokens AI Autopilot Prudent_2022": 72.5375147108,
+      "Native Tokens AI Autopilot Risky_2022": 65.7888897427,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-04-11T00:00:00.000",
+      "Bitcoin_2022": 65.2819697314,
+      "Native Tokens_2022": 61.380629342,
+      "Native Tokens AI Autopilot Prudent_2022": 73.004937001,
+      "Native Tokens AI Autopilot Risky_2022": 66.222156482,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-04-12T00:00:00.000",
+      "Bitcoin_2022": 64.8276160495,
+      "Native Tokens_2022": 61.1453412084,
+      "Native Tokens AI Autopilot Prudent_2022": 72.758772122,
+      "Native Tokens AI Autopilot Risky_2022": 65.9939793997,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-04-13T00:00:00.000",
+      "Bitcoin_2022": 65.5805450081,
+      "Native Tokens_2022": 62.3571762701,
+      "Native Tokens AI Autopilot Prudent_2022": 73.9967321331,
+      "Native Tokens AI Autopilot Risky_2022": 67.1414790128,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-04-14T00:00:00.000",
+      "Bitcoin_2022": 65.863975162,
+      "Native Tokens_2022": 64.0288922742,
+      "Native Tokens AI Autopilot Prudent_2022": 75.7519816834,
+      "Native Tokens AI Autopilot Risky_2022": 68.7684687067,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-04-17T00:00:00.000",
+      "Bitcoin_2022": 63.7696210474,
+      "Native Tokens_2022": 63.9648611568,
+      "Native Tokens AI Autopilot Prudent_2022": 75.780168608,
+      "Native Tokens AI Autopilot Risky_2022": 68.7945959521,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-04-18T00:00:00.000",
+      "Bitcoin_2022": 65.7795951925,
+      "Native Tokens_2022": 64.3941420617,
+      "Native Tokens AI Autopilot Prudent_2022": 76.1619693091,
+      "Native Tokens AI Autopilot Risky_2022": 69.141201476,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-04-19T00:00:00.000",
+      "Bitcoin_2022": 63.3260853103,
+      "Native Tokens_2022": 62.324479766,
+      "Native Tokens AI Autopilot Prudent_2022": 74.058148646,
+      "Native Tokens AI Autopilot Risky_2022": 67.2313153486,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-04-20T00:00:00.000",
+      "Bitcoin_2022": 61.0045543548,
+      "Native Tokens_2022": 61.9081842927,
+      "Native Tokens AI Autopilot Prudent_2022": 73.7373804138,
+      "Native Tokens AI Autopilot Risky_2022": 66.9401161941,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-04-21T00:00:00.000",
+      "Bitcoin_2022": 59.0638150564,
+      "Native Tokens_2022": 60.7150850702,
+      "Native Tokens AI Autopilot Prudent_2022": 72.5699549919,
+      "Native Tokens AI Autopilot Risky_2022": 65.8803064594,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-04-24T00:00:00.000",
+      "Bitcoin_2022": 59.3558995662,
+      "Native Tokens_2022": 59.9453777943,
+      "Native Tokens AI Autopilot Prudent_2022": 71.9158596602,
+      "Native Tokens AI Autopilot Risky_2022": 65.2865069859,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-04-25T00:00:00.000",
+      "Bitcoin_2022": 60.5610186177,
+      "Native Tokens_2022": 59.5340774765,
+      "Native Tokens AI Autopilot Prudent_2022": 71.4970603207,
+      "Native Tokens AI Autopilot Risky_2022": 64.9063134364,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-04-26T00:00:00.000",
+      "Bitcoin_2022": 61.2057681282,
+      "Native Tokens_2022": 58.1763956767,
+      "Native Tokens AI Autopilot Prudent_2022": 69.640231698,
+      "Native Tokens AI Autopilot Risky_2022": 63.2206511162,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-04-27T00:00:00.000",
+      "Bitcoin_2022": 64.0335789007,
+      "Native Tokens_2022": 60.5156238941,
+      "Native Tokens AI Autopilot Prudent_2022": 72.2358696969,
+      "Native Tokens AI Autopilot Risky_2022": 65.5770178334,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-04-28T00:00:00.000",
+      "Bitcoin_2022": 63.5013360162,
+      "Native Tokens_2022": 59.7854287226,
+      "Native Tokens AI Autopilot Prudent_2022": 71.4192587084,
+      "Native Tokens AI Autopilot Risky_2022": 64.8356837356,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-05-01T00:00:00.000",
+      "Bitcoin_2022": 59.9422321747,
+      "Native Tokens_2022": 59.7854287226,
+      "Native Tokens AI Autopilot Prudent_2022": 71.4192587084,
+      "Native Tokens AI Autopilot Risky_2022": 64.8356837356,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-05-02T00:00:00.000",
+      "Bitcoin_2022": 62.1058211361,
+      "Native Tokens_2022": 58.6575375159,
+      "Native Tokens AI Autopilot Prudent_2022": 70.3673060884,
+      "Native Tokens AI Autopilot Risky_2022": 63.7759868808,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-05-03T00:00:00.000",
+      "Bitcoin_2022": 61.6882484666,
+      "Native Tokens_2022": 58.290393036,
+      "Native Tokens AI Autopilot Prudent_2022": 69.9799558351,
+      "Native Tokens AI Autopilot Risky_2022": 63.4050955319,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-05-04T00:00:00.000",
+      "Bitcoin_2022": 62.5082486829,
+      "Native Tokens_2022": 57.9962350805,
+      "Native Tokens AI Autopilot Prudent_2022": 69.5955188534,
+      "Native Tokens AI Autopilot Risky_2022": 63.0651469256,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-05-05T00:00:00.000",
+      "Bitcoin_2022": 63.8929456182,
+      "Native Tokens_2022": 59.7640930162,
+      "Native Tokens AI Autopilot Prudent_2022": 71.4137475051,
+      "Native Tokens AI Autopilot Risky_2022": 64.8239474195,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-05-08T00:00:00.000",
+      "Bitcoin_2022": 59.6393297201,
+      "Native Tokens_2022": 60.3054132774,
+      "Native Tokens AI Autopilot Prudent_2022": 72.1212025426,
+      "Native Tokens AI Autopilot Risky_2022": 65.4495333164,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-05-09T00:00:00.000",
+      "Bitcoin_2022": 59.8665065611,
+      "Native Tokens_2022": 58.0450554543,
+      "Native Tokens AI Autopilot Prudent_2022": 69.8657562752,
+      "Native Tokens AI Autopilot Risky_2022": 63.2510385369,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-05-10T00:00:00.000",
+      "Bitcoin_2022": 60.3554776664,
+      "Native Tokens_2022": 57.5767460157,
+      "Native Tokens AI Autopilot Prudent_2022": 69.3162545892,
+      "Native Tokens AI Autopilot Risky_2022": 62.7440808933,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-05-11T00:00:00.000",
+      "Bitcoin_2022": 58.4753188589,
+      "Native Tokens_2022": 57.9369380344,
+      "Native Tokens AI Autopilot Prudent_2022": 69.8653520912,
+      "Native Tokens AI Autopilot Risky_2022": 63.2131640039,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-05-12T00:00:00.000",
+      "Bitcoin_2022": 57.239909562,
+      "Native Tokens_2022": 57.2112005411,
+      "Native Tokens AI Autopilot Prudent_2022": 69.293199316,
+      "Native Tokens AI Autopilot Risky_2022": 62.6024492964,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-05-15T00:00:00.000",
+      "Bitcoin_2022": 59.1849760383,
+      "Native Tokens_2022": 58.1573714961,
+      "Native Tokens AI Autopilot Prudent_2022": 70.052522141,
+      "Native Tokens AI Autopilot Risky_2022": 63.4070406938,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-05-16T00:00:00.000",
+      "Bitcoin_2022": 58.3281948096,
+      "Native Tokens_2022": 58.6807878395,
+      "Native Tokens AI Autopilot Prudent_2022": 70.569328571,
+      "Native Tokens AI Autopilot Risky_2022": 63.9093355613,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-05-17T00:00:00.000",
+      "Bitcoin_2022": 59.1503586149,
+      "Native Tokens_2022": 57.1979406315,
+      "Native Tokens AI Autopilot Prudent_2022": 69.2512594917,
+      "Native Tokens AI Autopilot Risky_2022": 62.5864090841,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-05-18T00:00:00.000",
+      "Bitcoin_2022": 57.856532416,
+      "Native Tokens_2022": 57.1979406315,
+      "Native Tokens AI Autopilot Prudent_2022": 69.2512594917,
+      "Native Tokens AI Autopilot Risky_2022": 62.5864090841,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-05-19T00:00:00.000",
+      "Bitcoin_2022": 58.0620733673,
+      "Native Tokens_2022": 57.6597737917,
+      "Native Tokens AI Autopilot Prudent_2022": 69.6391027733,
+      "Native Tokens AI Autopilot Risky_2022": 62.9829003301,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-05-22T00:00:00.000",
+      "Bitcoin_2022": 58.189725116,
+      "Native Tokens_2022": 57.4720637356,
+      "Native Tokens AI Autopilot Prudent_2022": 69.4801916772,
+      "Native Tokens AI Autopilot Risky_2022": 62.8208752583,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-05-23T00:00:00.000",
+      "Bitcoin_2022": 58.8842371726,
+      "Native Tokens_2022": 58.2994479349,
+      "Native Tokens AI Autopilot Prudent_2022": 70.3478136245,
+      "Native Tokens AI Autopilot Risky_2022": 63.6072965155,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-05-24T00:00:00.000",
+      "Bitcoin_2022": 57.2117829055,
+      "Native Tokens_2022": 56.6927211995,
+      "Native Tokens AI Autopilot Prudent_2022": 68.6629477785,
+      "Native Tokens AI Autopilot Risky_2022": 62.0801171709,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-05-25T00:00:00.000",
+      "Bitcoin_2022": 57.293999286,
+      "Native Tokens_2022": 57.1577286046,
+      "Native Tokens AI Autopilot Prudent_2022": 69.219520845,
+      "Native Tokens AI Autopilot Risky_2022": 62.6010658061,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-05-26T00:00:00.000",
+      "Bitcoin_2022": 57.8803318945,
+      "Native Tokens_2022": 57.5336823487,
+      "Native Tokens AI Autopilot Prudent_2022": 69.5424775241,
+      "Native Tokens AI Autopilot Risky_2022": 62.8767755191,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-05-29T00:00:00.000",
+      "Bitcoin_2022": 59.8881424507,
+      "Native Tokens_2022": 57.5336823487,
+      "Native Tokens AI Autopilot Prudent_2022": 69.5424775241,
+      "Native Tokens AI Autopilot Risky_2022": 62.8767755191,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-05-30T00:00:00.000",
+      "Bitcoin_2022": 60.09801058,
+      "Native Tokens_2022": 58.3555004067,
+      "Native Tokens AI Autopilot Prudent_2022": 70.1846340775,
+      "Native Tokens AI Autopilot Risky_2022": 63.4678713387,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-05-31T00:00:00.000",
+      "Bitcoin_2022": 58.6765326323,
+      "Native Tokens_2022": 57.7115579953,
+      "Native Tokens AI Autopilot Prudent_2022": 69.6694572595,
+      "Native Tokens AI Autopilot Risky_2022": 62.993513193,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-06-01T00:00:00.000",
+      "Bitcoin_2022": 58.1269810361,
+      "Native Tokens_2022": 57.7809142518,
+      "Native Tokens AI Autopilot Prudent_2022": 69.7422255518,
+      "Native Tokens AI Autopilot Risky_2022": 63.0607201321,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-06-02T00:00:00.000",
+      "Bitcoin_2022": 58.8496197492,
+      "Native Tokens_2022": 58.3353339146,
+      "Native Tokens AI Autopilot Prudent_2022": 70.3285440986,
+      "Native Tokens AI Autopilot Risky_2022": 63.6022706625,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-06-05T00:00:00.000",
+      "Bitcoin_2022": 55.4657666137,
+      "Native Tokens_2022": 57.5656247596,
+      "Native Tokens AI Autopilot Prudent_2022": 69.553797267,
+      "Native Tokens AI Autopilot Risky_2022": 62.8870301183,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-06-06T00:00:00.000",
+      "Bitcoin_2022": 58.3195404537,
+      "Native Tokens_2022": 57.0272631997,
+      "Native Tokens AI Autopilot Prudent_2022": 69.0886181436,
+      "Native Tokens AI Autopilot Risky_2022": 62.4583360002,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-06-07T00:00:00.000",
+      "Bitcoin_2022": 57.0213870769,
+      "Native Tokens_2022": 57.143391851,
+      "Native Tokens AI Autopilot Prudent_2022": 69.1094934629,
+      "Native Tokens AI Autopilot Risky_2022": 62.4766782878,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-06-08T00:00:00.000",
+      "Bitcoin_2022": 57.631519164,
+      "Native Tokens_2022": 56.3885260576,
+      "Native Tokens AI Autopilot Prudent_2022": 68.3362135245,
+      "Native Tokens AI Autopilot Risky_2022": 61.7626841811,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-06-09T00:00:00.000",
+      "Bitcoin_2022": 57.2182736724,
+      "Native Tokens_2022": 56.4151505141,
+      "Native Tokens AI Autopilot Prudent_2022": 68.3642013292,
+      "Native Tokens AI Autopilot Risky_2022": 61.7885330039,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-06-12T00:00:00.000",
+      "Bitcoin_2022": 56.006663854,
+      "Native Tokens_2022": 53.8834273669,
+      "Native Tokens AI Autopilot Prudent_2022": 65.8382201683,
+      "Native Tokens AI Autopilot Risky_2022": 59.4568555525,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-06-13T00:00:00.000",
+      "Bitcoin_2022": 55.950410541,
+      "Native Tokens_2022": 53.4843742782,
+      "Native Tokens AI Autopilot Prudent_2022": 65.369583426,
+      "Native Tokens AI Autopilot Risky_2022": 59.0336413919,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-06-14T00:00:00.000",
+      "Bitcoin_2022": 53.9620722855,
+      "Native Tokens_2022": 53.5870307969,
+      "Native Tokens AI Autopilot Prudent_2022": 65.4681140786,
+      "Native Tokens AI Autopilot Risky_2022": 59.1226219682,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-06-15T00:00:00.000",
+      "Bitcoin_2022": 55.0395395883,
+      "Native Tokens_2022": 52.3385765977,
+      "Native Tokens AI Autopilot Prudent_2022": 64.2865983287,
+      "Native Tokens AI Autopilot Risky_2022": 58.0556245464,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-06-16T00:00:00.000",
+      "Bitcoin_2022": 57.0798039788,
+      "Native Tokens_2022": 53.0512521408,
+      "Native Tokens AI Autopilot Prudent_2022": 65.0587010921,
+      "Native Tokens AI Autopilot Risky_2022": 58.7528913061,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-06-19T00:00:00.000",
+      "Bitcoin_2022": 57.7916247471,
+      "Native Tokens_2022": 53.7142061344,
+      "Native Tokens AI Autopilot Prudent_2022": 65.7769362209,
+      "Native Tokens AI Autopilot Risky_2022": 59.4015115477,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-06-20T00:00:00.000",
+      "Bitcoin_2022": 60.9223379742,
+      "Native Tokens_2022": 53.4774193427,
+      "Native Tokens AI Autopilot Prudent_2022": 65.1313339885,
+      "Native Tokens AI Autopilot Risky_2022": 58.8184842628,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-06-21T00:00:00.000",
+      "Bitcoin_2022": 64.7691991475,
+      "Native Tokens_2022": 54.5454537041,
+      "Native Tokens AI Autopilot Prudent_2022": 65.7952305459,
+      "Native Tokens AI Autopilot Risky_2022": 59.4180326932,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-06-22T00:00:00.000",
+      "Bitcoin_2022": 65.2192256515,
+      "Native Tokens_2022": 56.0018079595,
+      "Native Tokens AI Autopilot Prudent_2022": 67.3554234352,
+      "Native Tokens AI Autopilot Risky_2022": 60.8270040011,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-06-23T00:00:00.000",
+      "Bitcoin_2022": 66.9349516979,
+      "Native Tokens_2022": 56.5212264924,
+      "Native Tokens AI Autopilot Prudent_2022": 67.91205566,
+      "Native Tokens AI Autopilot Risky_2022": 61.3296846883,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-06-26T00:00:00.000",
+      "Bitcoin_2022": 65.2754789645,
+      "Native Tokens_2022": 56.452037331,
+      "Native Tokens AI Autopilot Prudent_2022": 67.7756949684,
+      "Native Tokens AI Autopilot Risky_2022": 61.2065407465,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-06-27T00:00:00.000",
+      "Bitcoin_2022": 66.3269831997,
+      "Native Tokens_2022": 56.9034460854,
+      "Native Tokens AI Autopilot Prudent_2022": 68.2562296287,
+      "Native Tokens AI Autopilot Risky_2022": 61.6404996201,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-06-28T00:00:00.000",
+      "Bitcoin_2022": 65.1326820931,
+      "Native Tokens_2022": 55.9498550567,
+      "Native Tokens AI Autopilot Prudent_2022": 67.2540740304,
+      "Native Tokens AI Autopilot Risky_2022": 60.7354778797,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-06-29T00:00:00.000",
+      "Bitcoin_2022": 65.7904131373,
+      "Native Tokens_2022": 55.9524444631,
+      "Native Tokens AI Autopilot Prudent_2022": 67.1660876652,
+      "Native Tokens AI Autopilot Risky_2022": 60.6560195862,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-06-30T00:00:00.000",
+      "Bitcoin_2022": 65.7276690574,
+      "Native Tokens_2022": 56.177843609,
+      "Native Tokens AI Autopilot Prudent_2022": 67.4730069323,
+      "Native Tokens AI Autopilot Risky_2022": 60.933190726,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-07-03T00:00:00.000",
+      "Bitcoin_2022": 67.3243977109,
+      "Native Tokens_2022": 58.3449482726,
+      "Native Tokens AI Autopilot Prudent_2022": 69.7194428217,
+      "Native Tokens AI Autopilot Risky_2022": 62.9618909816,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-07-04T00:00:00.000",
+      "Bitcoin_2022": 66.6233948874,
+      "Native Tokens_2022": 58.3449482726,
+      "Native Tokens AI Autopilot Prudent_2022": 69.7194428217,
+      "Native Tokens AI Autopilot Risky_2022": 62.9618909816,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-07-05T00:00:00.000",
+      "Bitcoin_2022": 65.9159012971,
+      "Native Tokens_2022": 56.8410018445,
+      "Native Tokens AI Autopilot Prudent_2022": 68.1324945026,
+      "Native Tokens AI Autopilot Risky_2022": 61.528757512,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-07-06T00:00:00.000",
+      "Bitcoin_2022": 65.5589091184,
+      "Native Tokens_2022": 56.4827801849,
+      "Native Tokens AI Autopilot Prudent_2022": 67.7898586448,
+      "Native Tokens AI Autopilot Risky_2022": 61.2193316097,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-07-07T00:00:00.000",
+      "Bitcoin_2022": 65.4377481366,
+      "Native Tokens_2022": 56.8819568323,
+      "Native Tokens AI Autopilot Prudent_2022": 68.1813247815,
+      "Native Tokens AI Autopilot Risky_2022": 61.5728549197,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-07-10T00:00:00.000",
+      "Bitcoin_2022": 66.6233948874,
+      "Native Tokens_2022": 56.7847287547,
+      "Native Tokens AI Autopilot Prudent_2022": 68.067094063,
+      "Native Tokens AI Autopilot Risky_2022": 61.4696960052,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-07-11T00:00:00.000",
+      "Bitcoin_2022": 66.1755319724,
+      "Native Tokens_2022": 57.2709820497,
+      "Native Tokens AI Autopilot Prudent_2022": 68.5862924316,
+      "Native Tokens AI Autopilot Risky_2022": 61.93857111,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-07-12T00:00:00.000",
+      "Bitcoin_2022": 65.6476162659,
+      "Native Tokens_2022": 57.2464935065,
+      "Native Tokens AI Autopilot Prudent_2022": 68.5089328449,
+      "Native Tokens AI Autopilot Risky_2022": 61.8687095954,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-07-13T00:00:00.000",
+      "Bitcoin_2022": 67.8869308409,
+      "Native Tokens_2022": 56.9270774415,
+      "Native Tokens AI Autopilot Prudent_2022": 68.1770935506,
+      "Native Tokens AI Autopilot Risky_2022": 61.5690338004,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-07-14T00:00:00.000",
+      "Bitcoin_2022": 65.3685132898,
+      "Native Tokens_2022": 60.1798789975,
+      "Native Tokens AI Autopilot Prudent_2022": 71.5703913411,
+      "Native Tokens AI Autopilot Risky_2022": 64.6334364513,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-07-17T00:00:00.000",
+      "Bitcoin_2022": 64.7605447917,
+      "Native Tokens_2022": 58.0970678404,
+      "Native Tokens AI Autopilot Prudent_2022": 69.4693721726,
+      "Native Tokens AI Autopilot Risky_2022": 62.7360584119,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-07-18T00:00:00.000",
+      "Bitcoin_2022": 64.464133104,
+      "Native Tokens_2022": 57.674313212,
+      "Native Tokens AI Autopilot Prudent_2022": 69.0699600795,
+      "Native Tokens AI Autopilot Risky_2022": 62.3753593068,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-07-19T00:00:00.000",
+      "Bitcoin_2022": 64.855742706,
+      "Native Tokens_2022": 58.357224185,
+      "Native Tokens AI Autopilot Prudent_2022": 69.8045705372,
+      "Native Tokens AI Autopilot Risky_2022": 63.0387676998,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-07-20T00:00:00.000",
+      "Bitcoin_2022": 64.3040275209,
+      "Native Tokens_2022": 58.032224913,
+      "Native Tokens AI Autopilot Prudent_2022": 69.4495233669,
+      "Native Tokens AI Autopilot Risky_2022": 62.7181334504,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-07-21T00:00:00.000",
+      "Bitcoin_2022": 64.6696740553,
+      "Native Tokens_2022": 58.2838236925,
+      "Native Tokens AI Autopilot Prudent_2022": 69.720169325,
+      "Native Tokens AI Autopilot Risky_2022": 62.9625470688,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-07-24T00:00:00.000",
+      "Bitcoin_2022": 63.0340008005,
+      "Native Tokens_2022": 58.4970104529,
+      "Native Tokens AI Autopilot Prudent_2022": 70.0021203097,
+      "Native Tokens AI Autopilot Risky_2022": 63.2171699752,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-07-25T00:00:00.000",
+      "Bitcoin_2022": 63.2352145739,
+      "Native Tokens_2022": 56.8523638664,
+      "Native Tokens AI Autopilot Prudent_2022": 68.2456832755,
+      "Native Tokens AI Autopilot Risky_2022": 61.6309754717,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-07-26T00:00:00.000",
+      "Bitcoin_2022": 64.0552147903,
+      "Native Tokens_2022": 57.1368153201,
+      "Native Tokens AI Autopilot Prudent_2022": 68.549469555,
+      "Native Tokens AI Autopilot Risky_2022": 61.9053172883,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-07-27T00:00:00.000",
+      "Bitcoin_2022": 62.9972197882,
+      "Native Tokens_2022": 57.4907447069,
+      "Native Tokens AI Autopilot Prudent_2022": 68.9075934152,
+      "Native Tokens AI Autopilot Risky_2022": 62.2287300197,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-07-28T00:00:00.000",
+      "Bitcoin_2022": 63.4494098811,
+      "Native Tokens_2022": 57.5321304916,
+      "Native Tokens AI Autopilot Prudent_2022": 68.9986484278,
+      "Native Tokens AI Autopilot Risky_2022": 62.310959532,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-07-31T00:00:00.000",
+      "Bitcoin_2022": 63.1335258928,
+      "Native Tokens_2022": 56.6942916646,
+      "Native Tokens AI Autopilot Prudent_2022": 68.10385975,
+      "Native Tokens AI Autopilot Risky_2022": 61.5028981811,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-08-01T00:00:00.000",
+      "Bitcoin_2022": 63.2049243285,
+      "Native Tokens_2022": 56.6942916646,
+      "Native Tokens AI Autopilot Prudent_2022": 68.10385975,
+      "Native Tokens AI Autopilot Risky_2022": 61.5028981811,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-08-02T00:00:00.000",
+      "Bitcoin_2022": 63.0123649109,
+      "Native Tokens_2022": 56.9248130575,
+      "Native Tokens AI Autopilot Prudent_2022": 68.3493894362,
+      "Native Tokens AI Autopilot Risky_2022": 61.7246299208,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-08-03T00:00:00.000",
+      "Bitcoin_2022": 63.0166920888,
+      "Native Tokens_2022": 55.856032054,
+      "Native Tokens AI Autopilot Prudent_2022": 67.2110245276,
+      "Native Tokens AI Autopilot Risky_2022": 60.6966009459,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-08-04T00:00:00.000",
+      "Bitcoin_2022": 62.6856629777,
+      "Native Tokens_2022": 56.4009008009,
+      "Native Tokens AI Autopilot Prudent_2022": 67.7913674222,
+      "Native Tokens AI Autopilot Risky_2022": 61.2206941488,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-08-07T00:00:00.000",
+      "Bitcoin_2022": 63.2135786843,
+      "Native Tokens_2022": 56.5083026,
+      "Native Tokens AI Autopilot Prudent_2022": 67.9384457895,
+      "Native Tokens AI Autopilot Risky_2022": 61.3535169563,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-08-08T00:00:00.000",
+      "Bitcoin_2022": 64.8881965404,
+      "Native Tokens_2022": 56.1918230951,
+      "Native Tokens AI Autopilot Prudent_2022": 67.5173199015,
+      "Native Tokens AI Autopilot Risky_2022": 60.9732086638,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-08-09T00:00:00.000",
+      "Bitcoin_2022": 63.8323651273,
+      "Native Tokens_2022": 56.0393109975,
+      "Native Tokens AI Autopilot Prudent_2022": 67.3061912775,
+      "Native Tokens AI Autopilot Risky_2022": 60.782543666,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-08-10T00:00:00.000",
+      "Bitcoin_2022": 63.7003862006,
+      "Native Tokens_2022": 56.1232783321,
+      "Native Tokens AI Autopilot Prudent_2022": 67.4224306323,
+      "Native Tokens AI Autopilot Risky_2022": 60.8875165299,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-08-11T00:00:00.000",
+      "Bitcoin_2022": 63.6268241759,
+      "Native Tokens_2022": 56.2915412679,
+      "Native Tokens AI Autopilot Prudent_2022": 67.6009976768,
+      "Native Tokens AI Autopilot Risky_2022": 61.048775977,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-08-14T00:00:00.000",
+      "Bitcoin_2022": 63.5510985623,
+      "Native Tokens_2022": 56.3628558857,
+      "Native Tokens AI Autopilot Prudent_2022": 67.6844309023,
+      "Native Tokens AI Autopilot Risky_2022": 61.1241224433,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-08-15T00:00:00.000",
+      "Bitcoin_2022": 63.1313623038,
+      "Native Tokens_2022": 56.1643215397,
+      "Native Tokens AI Autopilot Prudent_2022": 67.4723825369,
+      "Native Tokens AI Autopilot Risky_2022": 60.9326268499,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-08-16T00:00:00.000",
+      "Bitcoin_2022": 62.6012830083,
+      "Native Tokens_2022": 55.1141793417,
+      "Native Tokens AI Autopilot Prudent_2022": 66.3507582888,
+      "Native Tokens AI Autopilot Risky_2022": 59.9197159482,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-08-17T00:00:00.000",
+      "Bitcoin_2022": 59.7648178799,
+      "Native Tokens_2022": 54.995973037,
+      "Native Tokens AI Autopilot Prudent_2022": 66.3944984315,
+      "Native Tokens AI Autopilot Risky_2022": 59.9592165803,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-08-18T00:00:00.000",
+      "Bitcoin_2022": 56.6059779963,
+      "Native Tokens_2022": 53.6304546455,
+      "Native Tokens AI Autopilot Prudent_2022": 65.2244110149,
+      "Native Tokens AI Autopilot Risky_2022": 58.9025397981,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-08-21T00:00:00.000",
+      "Bitcoin_2022": 56.4977985482,
+      "Native Tokens_2022": 53.1186374401,
+      "Native Tokens AI Autopilot Prudent_2022": 64.6944506668,
+      "Native Tokens AI Autopilot Risky_2022": 58.423945817,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-08-22T00:00:00.000",
+      "Bitcoin_2022": 55.9179567066,
+      "Native Tokens_2022": 53.1711185612,
+      "Native Tokens AI Autopilot Prudent_2022": 64.7793411744,
+      "Native Tokens AI Autopilot Risky_2022": 58.5006083184,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-08-23T00:00:00.000",
+      "Bitcoin_2022": 57.5471391945,
+      "Native Tokens_2022": 52.8002101149,
+      "Native Tokens AI Autopilot Prudent_2022": 64.3674223233,
+      "Native Tokens AI Autopilot Risky_2022": 58.1286146715,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-08-24T00:00:00.000",
+      "Bitcoin_2022": 56.2446586398,
+      "Native Tokens_2022": 53.8635478473,
+      "Native Tokens AI Autopilot Prudent_2022": 65.5157126597,
+      "Native Tokens AI Autopilot Risky_2022": 59.1656070521,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-08-25T00:00:00.000",
+      "Bitcoin_2022": 56.396109867,
+      "Native Tokens_2022": 53.2124192901,
+      "Native Tokens AI Autopilot Prudent_2022": 64.8366844729,
+      "Native Tokens AI Autopilot Risky_2022": 58.5523936219,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-08-28T00:00:00.000",
+      "Bitcoin_2022": 56.1905689157,
+      "Native Tokens_2022": 53.0236159581,
+      "Native Tokens AI Autopilot Prudent_2022": 64.5745436798,
+      "Native Tokens AI Autopilot Risky_2022": 58.3156608059,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-08-29T00:00:00.000",
+      "Bitcoin_2022": 59.7064009779,
+      "Native Tokens_2022": 54.398539371,
+      "Native Tokens AI Autopilot Prudent_2022": 65.9016975537,
+      "Native Tokens AI Autopilot Risky_2022": 59.5141803894,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-08-30T00:00:00.000",
+      "Bitcoin_2022": 58.9426540746,
+      "Native Tokens_2022": 53.6664408316,
+      "Native Tokens AI Autopilot Prudent_2022": 65.150060699,
+      "Native Tokens AI Autopilot Risky_2022": 58.835395881,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-08-31T00:00:00.000",
+      "Bitcoin_2022": 56.2446586398,
+      "Native Tokens_2022": 53.4034491101,
+      "Native Tokens AI Autopilot Prudent_2022": 64.8365825889,
+      "Native Tokens AI Autopilot Risky_2022": 58.5523016135,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-09-01T00:00:00.000",
+      "Bitcoin_2022": 55.7427060007,
+      "Native Tokens_2022": 52.3662951896,
+      "Native Tokens AI Autopilot Prudent_2022": 63.9163220713,
+      "Native Tokens AI Autopilot Risky_2022": 57.7212372779,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-09-04T00:00:00.000",
+      "Bitcoin_2022": 55.8681941605,
+      "Native Tokens_2022": 51.9163540768,
+      "Native Tokens AI Autopilot Prudent_2022": 63.4048440492,
+      "Native Tokens AI Autopilot Risky_2022": 57.2593342252,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-09-05T00:00:00.000",
+      "Bitcoin_2022": 55.6042363072,
+      "Native Tokens_2022": 52.6238959661,
+      "Native Tokens AI Autopilot Prudent_2022": 64.1623549517,
+      "Native Tokens AI Autopilot Risky_2022": 57.9434234397,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-09-06T00:00:00.000",
+      "Bitcoin_2022": 55.5523101721,
+      "Native Tokens_2022": 52.1971246678,
+      "Native Tokens AI Autopilot Prudent_2022": 63.7054436137,
+      "Native Tokens AI Autopilot Risky_2022": 57.5307981992,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-09-07T00:00:00.000",
+      "Bitcoin_2022": 56.2251863391,
+      "Native Tokens_2022": 52.474199146,
+      "Native Tokens AI Autopilot Prudent_2022": 64.0305499058,
+      "Native Tokens AI Autopilot Risky_2022": 57.824393588,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-09-08T00:00:00.000",
+      "Bitcoin_2022": 56.0282997436,
+      "Native Tokens_2022": 52.1709669077,
+      "Native Tokens AI Autopilot Prudent_2022": 63.7059023762,
+      "Native Tokens AI Autopilot Risky_2022": 57.5312124961,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-09-11T00:00:00.000",
+      "Bitcoin_2022": 54.2757926849,
+      "Native Tokens_2022": 51.132191008,
+      "Native Tokens AI Autopilot Prudent_2022": 62.698979263,
+      "Native Tokens AI Autopilot Risky_2022": 56.6218853307,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-09-12T00:00:00.000",
+      "Bitcoin_2022": 56.3809647443,
+      "Native Tokens_2022": 51.0074631343,
+      "Native Tokens AI Autopilot Prudent_2022": 62.3330004734,
+      "Native Tokens AI Autopilot Risky_2022": 56.2913790086,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-09-13T00:00:00.000",
+      "Bitcoin_2022": 56.7552656346,
+      "Native Tokens_2022": 51.5775410778,
+      "Native Tokens AI Autopilot Prudent_2022": 62.9341996024,
+      "Native Tokens AI Autopilot Risky_2022": 56.8343069566,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-09-14T00:00:00.000",
+      "Bitcoin_2022": 57.4476141023,
+      "Native Tokens_2022": 51.8572203266,
+      "Native Tokens AI Autopilot Prudent_2022": 63.1032760178,
+      "Native Tokens AI Autopilot Risky_2022": 56.9869956532,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-09-15T00:00:00.000",
+      "Bitcoin_2022": 57.1100942243,
+      "Native Tokens_2022": 52.265357998,
+      "Native Tokens AI Autopilot Prudent_2022": 63.6315276302,
+      "Native Tokens AI Autopilot Risky_2022": 57.4640465171,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-09-18T00:00:00.000",
+      "Bitcoin_2022": 57.9062949621,
+      "Native Tokens_2022": 52.2747105579,
+      "Native Tokens AI Autopilot Prudent_2022": 63.4403553504,
+      "Native Tokens AI Autopilot Risky_2022": 57.2914035968,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-09-19T00:00:00.000",
+      "Bitcoin_2022": 58.8106751479,
+      "Native Tokens_2022": 52.2126587008,
+      "Native Tokens AI Autopilot Prudent_2022": 63.3562564441,
+      "Native Tokens AI Autopilot Risky_2022": 57.2154559708,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-09-20T00:00:00.000",
+      "Bitcoin_2022": 58.5640260063,
+      "Native Tokens_2022": 52.3206882848,
+      "Native Tokens AI Autopilot Prudent_2022": 63.4949910062,
+      "Native Tokens AI Autopilot Risky_2022": 57.3407436957,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-09-21T00:00:00.000",
+      "Bitcoin_2022": 57.5622843172,
+      "Native Tokens_2022": 52.5381856259,
+      "Native Tokens AI Autopilot Prudent_2022": 63.7904271327,
+      "Native Tokens AI Autopilot Risky_2022": 57.6075446973,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-09-22T00:00:00.000",
+      "Bitcoin_2022": 57.4151602679,
+      "Native Tokens_2022": 51.76592232,
+      "Native Tokens AI Autopilot Prudent_2022": 62.9556838782,
+      "Native Tokens AI Autopilot Risky_2022": 56.8537088708,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-09-25T00:00:00.000",
+      "Bitcoin_2022": 56.8894081502,
+      "Native Tokens_2022": 51.5213679461,
+      "Native Tokens AI Autopilot Prudent_2022": 62.7391772101,
+      "Native Tokens AI Autopilot Risky_2022": 56.6581870954,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-09-26T00:00:00.000",
+      "Bitcoin_2022": 56.5735241619,
+      "Native Tokens_2022": 51.4560784298,
+      "Native Tokens AI Autopilot Prudent_2022": 62.6623863001,
+      "Native Tokens AI Autopilot Risky_2022": 56.5888391386,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-09-27T00:00:00.000",
+      "Bitcoin_2022": 56.7704107574,
+      "Native Tokens_2022": 51.2811332076,
+      "Native Tokens AI Autopilot Prudent_2022": 62.419524969,
+      "Native Tokens AI Autopilot Risky_2022": 56.3695171241,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-09-28T00:00:00.000",
+      "Bitcoin_2022": 58.6051341966,
+      "Native Tokens_2022": 51.1018143548,
+      "Native Tokens AI Autopilot Prudent_2022": 62.1705921046,
+      "Native Tokens AI Autopilot Risky_2022": 56.1447120593,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-09-29T00:00:00.000",
+      "Bitcoin_2022": 58.1983794719,
+      "Native Tokens_2022": 52.6690656237,
+      "Native Tokens AI Autopilot Prudent_2022": 63.891121074,
+      "Native Tokens AI Autopilot Risky_2022": 57.6984788855,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-10-02T00:00:00.000",
+      "Bitcoin_2022": 60.2299895066,
+      "Native Tokens_2022": 53.8323796006,
+      "Native Tokens AI Autopilot Prudent_2022": 64.9020663293,
+      "Native Tokens AI Autopilot Risky_2022": 58.6114383471,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-10-03T00:00:00.000",
+      "Bitcoin_2022": 59.2736831857,
+      "Native Tokens_2022": 53.0657599238,
+      "Native Tokens AI Autopilot Prudent_2022": 64.217098974,
+      "Native Tokens AI Autopilot Risky_2022": 57.9928614014,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-10-04T00:00:00.000",
+      "Bitcoin_2022": 59.8318891377,
+      "Native Tokens_2022": 52.7042958037,
+      "Native Tokens AI Autopilot Prudent_2022": 63.8322190915,
+      "Native Tokens AI Autopilot Risky_2022": 57.6452859728,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-10-05T00:00:00.000",
+      "Bitcoin_2022": 59.4294615909,
+      "Native Tokens_2022": 53.113588064,
+      "Native Tokens AI Autopilot Prudent_2022": 64.2367486185,
+      "Native Tokens AI Autopilot Risky_2022": 58.0106065056,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-10-06T00:00:00.000",
+      "Bitcoin_2022": 60.5934724521,
+      "Native Tokens_2022": 53.1897066067,
+      "Native Tokens AI Autopilot Prudent_2022": 64.3495972526,
+      "Native Tokens AI Autopilot Risky_2022": 58.1125172941,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-10-09T00:00:00.000",
+      "Bitcoin_2022": 59.6588020208,
+      "Native Tokens_2022": 51.9933516676,
+      "Native Tokens AI Autopilot Prudent_2022": 63.0707008247,
+      "Native Tokens AI Autopilot Risky_2022": 56.9575778075,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-10-10T00:00:00.000",
+      "Bitcoin_2022": 59.2801739526,
+      "Native Tokens_2022": 51.6127241462,
+      "Native Tokens AI Autopilot Prudent_2022": 62.673205989,
+      "Native Tokens AI Autopilot Risky_2022": 56.5986101292,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-10-11T00:00:00.000",
+      "Bitcoin_2022": 57.798115514,
+      "Native Tokens_2022": 51.6081653522,
+      "Native Tokens AI Autopilot Prudent_2022": 62.7603502078,
+      "Native Tokens AI Autopilot Risky_2022": 56.6773079009,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-10-12T00:00:00.000",
+      "Bitcoin_2022": 57.8500416491,
+      "Native Tokens_2022": 51.6843426705,
+      "Native Tokens AI Autopilot Prudent_2022": 62.8723014623,
+      "Native Tokens AI Autopilot Risky_2022": 56.7784082882,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-10-13T00:00:00.000",
+      "Bitcoin_2022": 58.3238676316,
+      "Native Tokens_2022": 51.4502004675,
+      "Native Tokens AI Autopilot Prudent_2022": 62.6548920461,
+      "Native Tokens AI Autopilot Risky_2022": 56.5820712635,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-10-16T00:00:00.000",
+      "Bitcoin_2022": 61.3399106438,
+      "Native Tokens_2022": 51.9363257267,
+      "Native Tokens AI Autopilot Prudent_2022": 62.8742820391,
+      "Native Tokens AI Autopilot Risky_2022": 56.7801968983,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-10-17T00:00:00.000",
+      "Bitcoin_2022": 61.5843961964,
+      "Native Tokens_2022": 51.9363257267,
+      "Native Tokens AI Autopilot Prudent_2022": 62.8742820391,
+      "Native Tokens AI Autopilot Risky_2022": 56.7801968983,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-10-18T00:00:00.000",
+      "Bitcoin_2022": 61.1300425145,
+      "Native Tokens_2022": 51.8519307898,
+      "Native Tokens AI Autopilot Prudent_2022": 62.7531919067,
+      "Native Tokens AI Autopilot Risky_2022": 56.6708434181,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-10-19T00:00:00.000",
+      "Bitcoin_2022": 62.1469293264,
+      "Native Tokens_2022": 51.6372677354,
+      "Native Tokens AI Autopilot Prudent_2022": 62.4682053754,
+      "Native Tokens AI Autopilot Risky_2022": 56.4134791852,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-10-20T00:00:00.000",
+      "Bitcoin_2022": 64.0032886552,
+      "Native Tokens_2022": 52.5488384808,
+      "Native Tokens AI Autopilot Prudent_2022": 63.2426533073,
+      "Native Tokens AI Autopilot Risky_2022": 57.1128638094,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-10-23T00:00:00.000",
+      "Bitcoin_2022": 68.3131578663,
+      "Native Tokens_2022": 53.9793550472,
+      "Native Tokens AI Autopilot Prudent_2022": 64.5420195032,
+      "Native Tokens AI Autopilot Risky_2022": 58.2862890337,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-10-24T00:00:00.000",
+      "Bitcoin_2022": 72.7982777832,
+      "Native Tokens_2022": 57.0242280888,
+      "Native Tokens AI Autopilot Prudent_2022": 67.6998429588,
+      "Native Tokens AI Autopilot Risky_2022": 61.1380406866,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-10-25T00:00:00.000",
+      "Bitcoin_2022": 75.0029749348,
+      "Native Tokens_2022": 55.5027719656,
+      "Native Tokens AI Autopilot Prudent_2022": 65.9646885795,
+      "Native Tokens AI Autopilot Risky_2022": 59.5710660168,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-10-26T00:00:00.000",
+      "Bitcoin_2022": 73.9666158223,
+      "Native Tokens_2022": 56.6156881949,
+      "Native Tokens AI Autopilot Prudent_2022": 67.2247502016,
+      "Native Tokens AI Autopilot Risky_2022": 60.7089962597,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-10-27T00:00:00.000",
+      "Bitcoin_2022": 73.2201776307,
+      "Native Tokens_2022": 56.0845250016,
+      "Native Tokens AI Autopilot Prudent_2022": 66.6417185792,
+      "Native Tokens AI Autopilot Risky_2022": 60.1824749339,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-10-30T00:00:00.000",
+      "Bitcoin_2022": 74.5659299646,
+      "Native Tokens_2022": 57.5133132561,
+      "Native Tokens AI Autopilot Prudent_2022": 68.1809132307,
+      "Native Tokens AI Autopilot Risky_2022": 61.5724832584,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-10-31T00:00:00.000",
+      "Bitcoin_2022": 74.9705211004,
+      "Native Tokens_2022": 57.3596216916,
+      "Native Tokens AI Autopilot Prudent_2022": 68.0594704402,
+      "Native Tokens AI Autopilot Risky_2022": 61.4628113014,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-11-01T00:00:00.000",
+      "Bitcoin_2022": 76.3898354591,
+      "Native Tokens_2022": 57.1123414092,
+      "Native Tokens AI Autopilot Prudent_2022": 67.719334849,
+      "Native Tokens AI Autopilot Risky_2022": 61.1556433273,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-11-02T00:00:00.000",
+      "Bitcoin_2022": 75.5719988317,
+      "Native Tokens_2022": 58.6026645709,
+      "Native Tokens AI Autopilot Prudent_2022": 69.3065740281,
+      "Native Tokens AI Autopilot Risky_2022": 62.5890394659,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-11-03T00:00:00.000",
+      "Bitcoin_2022": 74.8969590757,
+      "Native Tokens_2022": 59.1275550969,
+      "Native Tokens AI Autopilot Prudent_2022": 69.9311601401,
+      "Native Tokens AI Autopilot Risky_2022": 63.1530876151,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-11-06T00:00:00.000",
+      "Bitcoin_2022": 75.7926849057,
+      "Native Tokens_2022": 61.0556375451,
+      "Native Tokens AI Autopilot Prudent_2022": 71.8675784232,
+      "Native Tokens AI Autopilot Risky_2022": 64.9018186988,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-11-07T00:00:00.000",
+      "Bitcoin_2022": 76.9090968098,
+      "Native Tokens_2022": 59.5471200367,
+      "Native Tokens AI Autopilot Prudent_2022": 70.2367309955,
+      "Native Tokens AI Autopilot Risky_2022": 63.4290410378,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-11-08T00:00:00.000",
+      "Bitcoin_2022": 77.0151126689,
+      "Native Tokens_2022": 60.9384672805,
+      "Native Tokens AI Autopilot Prudent_2022": 71.6969189311,
+      "Native Tokens AI Autopilot Risky_2022": 64.7477003654,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-11-09T00:00:00.000",
+      "Bitcoin_2022": 79.0921580718,
+      "Native Tokens_2022": 63.6819990966,
+      "Native Tokens AI Autopilot Prudent_2022": 74.5523820327,
+      "Native Tokens AI Autopilot Risky_2022": 67.3263979161,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-11-10T00:00:00.000",
+      "Bitcoin_2022": 79.2068282868,
+      "Native Tokens_2022": 62.5499357468,
+      "Native Tokens AI Autopilot Prudent_2022": 73.2610036732,
+      "Native Tokens AI Autopilot Risky_2022": 66.160186309,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-11-13T00:00:00.000",
+      "Bitcoin_2022": 78.9082530101,
+      "Native Tokens_2022": 64.5478674927,
+      "Native Tokens AI Autopilot Prudent_2022": 75.4449317491,
+      "Native Tokens AI Autopilot Risky_2022": 68.1324373171,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-11-14T00:00:00.000",
+      "Bitcoin_2022": 77.0432393254,
+      "Native Tokens_2022": 64.4766837079,
+      "Native Tokens AI Autopilot Prudent_2022": 75.4275514848,
+      "Native Tokens AI Autopilot Risky_2022": 68.1167416336,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-11-15T00:00:00.000",
+      "Bitcoin_2022": 81.3963803157,
+      "Native Tokens_2022": 65.1555195912,
+      "Native Tokens AI Autopilot Prudent_2022": 76.1771326764,
+      "Native Tokens AI Autopilot Risky_2022": 68.7936697238,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-11-16T00:00:00.000",
+      "Bitcoin_2022": 77.9281472106,
+      "Native Tokens_2022": 66.3245110718,
+      "Native Tokens AI Autopilot Prudent_2022": 77.2837824941,
+      "Native Tokens AI Autopilot Risky_2022": 69.79305759,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-11-17T00:00:00.000",
+      "Bitcoin_2022": 78.8044007399,
+      "Native Tokens_2022": 62.934404093,
+      "Native Tokens AI Autopilot Prudent_2022": 73.7958439759,
+      "Native Tokens AI Autopilot Risky_2022": 66.643187254,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-11-20T00:00:00.000",
+      "Bitcoin_2022": 81.043715315,
+      "Native Tokens_2022": 66.2197537518,
+      "Native Tokens AI Autopilot Prudent_2022": 77.2189002053,
+      "Native Tokens AI Autopilot Risky_2022": 69.7344640122,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-11-21T00:00:00.000",
+      "Bitcoin_2022": 79.6157466005,
+      "Native Tokens_2022": 63.5379744512,
+      "Native Tokens AI Autopilot Prudent_2022": 74.3801906667,
+      "Native Tokens AI Autopilot Risky_2022": 67.1708961851,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-11-22T00:00:00.000",
+      "Bitcoin_2022": 81.0134250695,
+      "Native Tokens_2022": 64.197377703,
+      "Native Tokens AI Autopilot Prudent_2022": 75.1170947487,
+      "Native Tokens AI Autopilot Risky_2022": 67.8363758936,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-11-23T00:00:00.000",
+      "Bitcoin_2022": 80.5958524,
+      "Native Tokens_2022": 65.3027100449,
+      "Native Tokens AI Autopilot Prudent_2022": 76.1594107067,
+      "Native Tokens AI Autopilot Risky_2022": 68.7776654547,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-11-24T00:00:00.000",
+      "Bitcoin_2022": 81.1389132293,
+      "Native Tokens_2022": 66.056494963,
+      "Native Tokens AI Autopilot Prudent_2022": 76.8507031777,
+      "Native Tokens AI Autopilot Risky_2022": 69.4019544543,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-11-27T00:00:00.000",
+      "Bitcoin_2022": 80.1890976752,
+      "Native Tokens_2022": 64.0741721808,
+      "Native Tokens AI Autopilot Prudent_2022": 74.9382670198,
+      "Native Tokens AI Autopilot Risky_2022": 67.6748810291,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-11-28T00:00:00.000",
+      "Bitcoin_2022": 81.6387022793,
+      "Native Tokens_2022": 63.7650251772,
+      "Native Tokens AI Autopilot Prudent_2022": 74.506716637,
+      "Native Tokens AI Autopilot Risky_2022": 67.2851586352,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-11-29T00:00:00.000",
+      "Bitcoin_2022": 81.3271454689,
+      "Native Tokens_2022": 65.5700239778,
+      "Native Tokens AI Autopilot Prudent_2022": 76.3325225832,
+      "Native Tokens AI Autopilot Risky_2022": 68.9339984755,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-11-30T00:00:00.000",
+      "Bitcoin_2022": 81.4266705611,
+      "Native Tokens_2022": 65.6233568996,
+      "Native Tokens AI Autopilot Prudent_2022": 76.4040046495,
+      "Native Tokens AI Autopilot Risky_2022": 68.9985521478,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-12-01T00:00:00.000",
+      "Bitcoin_2022": 82.9606551347,
+      "Native Tokens_2022": 65.3155738761,
+      "Native Tokens AI Autopilot Prudent_2022": 75.9714155853,
+      "Native Tokens AI Autopilot Risky_2022": 68.6078917466,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-12-04T00:00:00.000",
+      "Bitcoin_2022": 88.2376486115,
+      "Native Tokens_2022": 66.8311958505,
+      "Native Tokens AI Autopilot Prudent_2022": 77.2889634824,
+      "Native Tokens AI Autopilot Risky_2022": 69.7977364115,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-12-05T00:00:00.000",
+      "Bitcoin_2022": 95.3688378282,
+      "Native Tokens_2022": 67.2780125143,
+      "Native Tokens AI Autopilot Prudent_2022": 77.5529333648,
+      "Native Tokens AI Autopilot Risky_2022": 70.0361210313,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-12-06T00:00:00.000",
+      "Bitcoin_2022": 94.7846688086,
+      "Native Tokens_2022": 69.1869584772,
+      "Native Tokens AI Autopilot Prudent_2022": 79.319818929,
+      "Native Tokens AI Autopilot Risky_2022": 71.6317513395,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-12-07T00:00:00.000",
+      "Bitcoin_2022": 93.8716342669,
+      "Native Tokens_2022": 69.2244650097,
+      "Native Tokens AI Autopilot Prudent_2022": 79.3954854349,
+      "Native Tokens AI Autopilot Risky_2022": 71.700083875,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-12-08T00:00:00.000",
+      "Bitcoin_2022": 96.1131124309,
+      "Native Tokens_2022": 72.6901485794,
+      "Native Tokens AI Autopilot Prudent_2022": 82.9211088955,
+      "Native Tokens AI Autopilot Risky_2022": 74.8839865377,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-12-11T00:00:00.000",
+      "Bitcoin_2022": 88.9083611895,
+      "Native Tokens_2022": 72.6660025152,
+      "Native Tokens AI Autopilot Prudent_2022": 83.0832908838,
+      "Native Tokens AI Autopilot Risky_2022": 75.0304490496,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-12-12T00:00:00.000",
+      "Bitcoin_2022": 88.8326355759,
+      "Native Tokens_2022": 73.5551956887,
+      "Native Tokens AI Autopilot Prudent_2022": 84.0022657063,
+      "Native Tokens AI Autopilot Risky_2022": 75.8720099545,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-12-13T00:00:00.000",
+      "Bitcoin_2022": 93.0667791733,
+      "Native Tokens_2022": 74.9252226926,
+      "Native Tokens AI Autopilot Prudent_2022": 85.3719290904,
+      "Native Tokens AI Autopilot Risky_2022": 77.1262936721,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-12-14T00:00:00.000",
+      "Bitcoin_2022": 92.9218187129,
+      "Native Tokens_2022": 76.0817684125,
+      "Native Tokens AI Autopilot Prudent_2022": 86.440116076,
+      "Native Tokens AI Autopilot Risky_2022": 78.1044971915,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-12-15T00:00:00.000",
+      "Bitcoin_2022": 91.3359080042,
+      "Native Tokens_2022": 76.3175154142,
+      "Native Tokens AI Autopilot Prudent_2022": 86.7308328671,
+      "Native Tokens AI Autopilot Risky_2022": 78.3707241653,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-12-18T00:00:00.000",
+      "Bitcoin_2022": 92.1494174537,
+      "Native Tokens_2022": 73.5257622741,
+      "Native Tokens AI Autopilot Prudent_2022": 83.9398206882,
+      "Native Tokens AI Autopilot Risky_2022": 75.8148252692,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-12-19T00:00:00.000",
+      "Bitcoin_2022": 91.8270426984,
+      "Native Tokens_2022": 74.2393279815,
+      "Native Tokens AI Autopilot Prudent_2022": 84.5675085028,
+      "Native Tokens AI Autopilot Risky_2022": 76.3896370177,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-12-20T00:00:00.000",
+      "Bitcoin_2022": 93.8932701565,
+      "Native Tokens_2022": 76.1455314692,
+      "Native Tokens AI Autopilot Prudent_2022": 86.3056723586,
+      "Native Tokens AI Autopilot Risky_2022": 77.9813789353,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-12-21T00:00:00.000",
+      "Bitcoin_2022": 95.1827691775,
+      "Native Tokens_2022": 78.4052974947,
+      "Native Tokens AI Autopilot Prudent_2022": 88.5976400328,
+      "Native Tokens AI Autopilot Risky_2022": 80.0802725529,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-12-22T00:00:00.000",
+      "Bitcoin_2022": 94.6483627041,
+      "Native Tokens_2022": 80.3943533358,
+      "Native Tokens AI Autopilot Prudent_2022": 90.6074942357,
+      "Native Tokens AI Autopilot Risky_2022": 81.9208177779,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-12-25T00:00:00.000",
+      "Bitcoin_2022": 94.1074654637,
+      "Native Tokens_2022": 80.3943533358,
+      "Native Tokens AI Autopilot Prudent_2022": 90.6074942357,
+      "Native Tokens AI Autopilot Risky_2022": 81.9208177779,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-12-26T00:00:00.000",
+      "Bitcoin_2022": 91.5674120231,
+      "Native Tokens_2022": 80.3943533358,
+      "Native Tokens AI Autopilot Prudent_2022": 90.6074942357,
+      "Native Tokens AI Autopilot Risky_2022": 81.9208177779,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-12-27T00:00:00.000",
+      "Bitcoin_2022": 93.7785999416,
+      "Native Tokens_2022": 82.8951431872,
+      "Native Tokens AI Autopilot Prudent_2022": 93.1112098555,
+      "Native Tokens AI Autopilot Risky_2022": 84.2968188358,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-12-28T00:00:00.000",
+      "Bitcoin_2022": 91.7729529744,
+      "Native Tokens_2022": 81.1775151427,
+      "Native Tokens AI Autopilot Prudent_2022": 91.5124199889,
+      "Native Tokens AI Autopilot Risky_2022": 82.7795832581,
+      "year": "2022"
+    },
+    {
+      "Date": "2023-12-29T00:00:00.000",
+      "Bitcoin_2022": 94.3303151267,
+      "Native Tokens_2022": 81.3807532391,
+      "Native Tokens AI Autopilot Prudent_2022": 91.6694092566,
+      "Native Tokens AI Autopilot Risky_2022": 82.9285645015,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-01-01T00:00:00.000",
+      "Bitcoin_2022": 95.5599520354,
+      "Native Tokens_2022": 81.3807532391,
+      "Native Tokens AI Autopilot Prudent_2022": 91.6694092566,
+      "Native Tokens AI Autopilot Risky_2022": 82.9285645015,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-01-02T00:00:00.000",
+      "Bitcoin_2022": 97.2705649131,
+      "Native Tokens_2022": 81.3807532391,
+      "Native Tokens AI Autopilot Prudent_2022": 91.6694092566,
+      "Native Tokens AI Autopilot Risky_2022": 82.9285645015,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-01-03T00:00:00.000",
+      "Bitcoin_2022": 92.7058401346,
+      "Native Tokens_2022": 78.2264482819,
+      "Native Tokens AI Autopilot Prudent_2022": 88.6265953725,
+      "Native Tokens AI Autopilot Risky_2022": 80.0409645877,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-01-04T00:00:00.000",
+      "Bitcoin_2022": 95.5871912829,
+      "Native Tokens_2022": 79.2700056022,
+      "Native Tokens AI Autopilot Prudent_2022": 89.4894474203,
+      "Native Tokens AI Autopilot Risky_2022": 80.8598025431,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-01-05T00:00:00.000",
+      "Bitcoin_2022": 95.5499116304,
+      "Native Tokens_2022": 76.9777902,
+      "Native Tokens AI Autopilot Prudent_2022": 87.3676840539,
+      "Native Tokens AI Autopilot Risky_2022": 78.8462703496,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-01-08T00:00:00.000",
+      "Bitcoin_2022": 101.624863761,
+      "Native Tokens_2022": 75.9427726161,
+      "Native Tokens AI Autopilot Prudent_2022": 86.2304491573,
+      "Native Tokens AI Autopilot Risky_2022": 77.767045818,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-01-09T00:00:00.000",
+      "Bitcoin_2022": 99.8274115233,
+      "Native Tokens_2022": 75.7083932889,
+      "Native Tokens AI Autopilot Prudent_2022": 85.7222830409,
+      "Native Tokens AI Autopilot Risky_2022": 77.2848012612,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-01-10T00:00:00.000",
+      "Bitcoin_2022": 100.8833443547,
+      "Native Tokens_2022": 76.2034052848,
+      "Native Tokens AI Autopilot Prudent_2022": 86.3601426597,
+      "Native Tokens AI Autopilot Risky_2022": 77.8901236536,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-01-11T00:00:00.000",
+      "Bitcoin_2022": 100.3225606898,
+      "Native Tokens_2022": 81.2305630766,
+      "Native Tokens AI Autopilot Prudent_2022": 91.0434993761,
+      "Native Tokens AI Autopilot Risky_2022": 82.3345822917,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-01-12T00:00:00.000",
+      "Bitcoin_2022": 92.7166411774,
+      "Native Tokens_2022": 81.0661542612,
+      "Native Tokens AI Autopilot Prudent_2022": 91.0750485391,
+      "Native Tokens AI Autopilot Risky_2022": 82.3645221313,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-01-15T00:00:00.000",
+      "Bitcoin_2022": 91.9784263136,
+      "Native Tokens_2022": 77.42438726,
+      "Native Tokens AI Autopilot Prudent_2022": 87.9139961968,
+      "Native Tokens AI Autopilot Risky_2022": 79.3647151038,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-01-16T00:00:00.000",
+      "Bitcoin_2022": 93.3695633077,
+      "Native Tokens_2022": 77.463746788,
+      "Native Tokens AI Autopilot Prudent_2022": 87.8545879196,
+      "Native Tokens AI Autopilot Risky_2022": 79.2688187994,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-01-17T00:00:00.000",
+      "Bitcoin_2022": 92.4775307911,
+      "Native Tokens_2022": 77.8546115423,
+      "Native Tokens AI Autopilot Prudent_2022": 88.2547309387,
+      "Native Tokens AI Autopilot Risky_2022": 79.706337169,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-01-18T00:00:00.000",
+      "Bitcoin_2022": 89.2741344973,
+      "Native Tokens_2022": 76.5539489673,
+      "Native Tokens AI Autopilot Prudent_2022": 87.139265264,
+      "Native Tokens AI Autopilot Risky_2022": 78.5537316157,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-01-19T00:00:00.000",
+      "Bitcoin_2022": 90.0451243523,
+      "Native Tokens_2022": 74.6489078532,
+      "Native Tokens AI Autopilot Prudent_2022": 85.7172117557,
+      "Native Tokens AI Autopilot Risky_2022": 77.1627620924,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-01-22T00:00:00.000",
+      "Bitcoin_2022": 85.4777035407,
+      "Native Tokens_2022": 72.8793274498,
+      "Native Tokens AI Autopilot Prudent_2022": 84.2080652725,
+      "Native Tokens AI Autopilot Risky_2022": 75.6065052428,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-01-23T00:00:00.000",
+      "Bitcoin_2022": 86.2093938294,
+      "Native Tokens_2022": 70.8538762235,
+      "Native Tokens AI Autopilot Prudent_2022": 82.7944322204,
+      "Native Tokens AI Autopilot Risky_2022": 73.9196343094,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-01-24T00:00:00.000",
+      "Bitcoin_2022": 86.7103153842,
+      "Native Tokens_2022": 72.0701785039,
+      "Native Tokens AI Autopilot Prudent_2022": 83.6472726763,
+      "Native Tokens AI Autopilot Risky_2022": 74.9352624735,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-01-25T00:00:00.000",
+      "Bitcoin_2022": 86.4003474594,
+      "Native Tokens_2022": 72.1346168771,
+      "Native Tokens AI Autopilot Prudent_2022": 83.6747615495,
+      "Native Tokens AI Autopilot Risky_2022": 74.9771865434,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-01-26T00:00:00.000",
+      "Bitcoin_2022": 90.474520698,
+      "Native Tokens_2022": 73.9759241124,
+      "Native Tokens AI Autopilot Prudent_2022": 84.8639551727,
+      "Native Tokens AI Autopilot Risky_2022": 76.4462778693,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-01-29T00:00:00.000",
+      "Bitcoin_2022": 93.657971406,
+      "Native Tokens_2022": 74.6630373436,
+      "Native Tokens AI Autopilot Prudent_2022": 85.4121415626,
+      "Native Tokens AI Autopilot Risky_2022": 77.0646194908,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-01-30T00:00:00.000",
+      "Bitcoin_2022": 92.9317915057,
+      "Native Tokens_2022": 76.5016239995,
+      "Native Tokens AI Autopilot Prudent_2022": 86.7669538111,
+      "Native Tokens AI Autopilot Risky_2022": 78.6771306902,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-01-31T00:00:00.000",
+      "Bitcoin_2022": 92.1312551391,
+      "Native Tokens_2022": 76.0902674573,
+      "Native Tokens AI Autopilot Prudent_2022": 86.4240649989,
+      "Native Tokens AI Autopilot Risky_2022": 78.293580205,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-02-01T00:00:00.000",
+      "Bitcoin_2022": 93.1982679129,
+      "Native Tokens_2022": 74.7795872373,
+      "Native Tokens AI Autopilot Prudent_2022": 85.3895483035,
+      "Native Tokens AI Autopilot Risky_2022": 77.1047168803,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-02-02T00:00:00.000",
+      "Bitcoin_2022": 93.436448631,
+      "Native Tokens_2022": 76.0547181683,
+      "Native Tokens AI Autopilot Prudent_2022": 86.3884983624,
+      "Native Tokens AI Autopilot Risky_2022": 78.2570354917,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-02-05T00:00:00.000",
+      "Bitcoin_2022": 92.2958231244,
+      "Native Tokens_2022": 73.6640749463,
+      "Native Tokens AI Autopilot Prudent_2022": 84.3866083191,
+      "Native Tokens AI Autopilot Risky_2022": 76.022747675,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-02-06T00:00:00.000",
+      "Bitcoin_2022": 93.217520473,
+      "Native Tokens_2022": 74.2884275148,
+      "Native Tokens AI Autopilot Prudent_2022": 84.9696025252,
+      "Native Tokens AI Autopilot Risky_2022": 76.6402955997,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-02-07T00:00:00.000",
+      "Bitcoin_2022": 95.886417326,
+      "Native Tokens_2022": 74.8845404048,
+      "Native Tokens AI Autopilot Prudent_2022": 85.4309651988,
+      "Native Tokens AI Autopilot Risky_2022": 77.1794734626,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-02-08T00:00:00.000",
+      "Bitcoin_2022": 98.0139690088,
+      "Native Tokens_2022": 77.3331646387,
+      "Native Tokens AI Autopilot Prudent_2022": 87.2538715904,
+      "Native Tokens AI Autopilot Risky_2022": 79.3559953038,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-02-09T00:00:00.000",
+      "Bitcoin_2022": 102.0071597897,
+      "Native Tokens_2022": 77.9841696331,
+      "Native Tokens AI Autopilot Prudent_2022": 87.6015581044,
+      "Native Tokens AI Autopilot Risky_2022": 79.8621412487,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-02-12T00:00:00.000",
+      "Bitcoin_2022": 108.0890590681,
+      "Native Tokens_2022": 79.3446812223,
+      "Native Tokens AI Autopilot Prudent_2022": 88.556300768,
+      "Native Tokens AI Autopilot Risky_2022": 81.0407015488,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-02-13T00:00:00.000",
+      "Bitcoin_2022": 107.6221971376,
+      "Native Tokens_2022": 79.4410750829,
+      "Native Tokens AI Autopilot Prudent_2022": 88.6417972685,
+      "Native Tokens AI Autopilot Risky_2022": 81.1364713017,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-02-14T00:00:00.000",
+      "Bitcoin_2022": 112.1316658834,
+      "Native Tokens_2022": 81.8102675558,
+      "Native Tokens AI Autopilot Prudent_2022": 90.3583846115,
+      "Native Tokens AI Autopilot Risky_2022": 83.0593236397,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-02-15T00:00:00.000",
+      "Bitcoin_2022": 112.3736835924,
+      "Native Tokens_2022": 81.6517543192,
+      "Native Tokens AI Autopilot Prudent_2022": 90.1329713488,
+      "Native Tokens AI Autopilot Risky_2022": 82.8068247389,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-02-16T00:00:00.000",
+      "Bitcoin_2022": 112.853239704,
+      "Native Tokens_2022": 80.9039200911,
+      "Native Tokens AI Autopilot Prudent_2022": 89.5283672817,
+      "Native Tokens AI Autopilot Risky_2022": 82.1295714972,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-02-19T00:00:00.000",
+      "Bitcoin_2022": 112.0287855364,
+      "Native Tokens_2022": 82.941000314,
+      "Native Tokens AI Autopilot Prudent_2022": 91.2066315995,
+      "Native Tokens AI Autopilot Risky_2022": 84.0094959162,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-02-20T00:00:00.000",
+      "Bitcoin_2022": 113.1229783966,
+      "Native Tokens_2022": 80.2643677249,
+      "Native Tokens AI Autopilot Prudent_2022": 88.9731731363,
+      "Native Tokens AI Autopilot Risky_2022": 81.6069704831,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-02-21T00:00:00.000",
+      "Bitcoin_2022": 112.1586769394,
+      "Native Tokens_2022": 81.0906134342,
+      "Native Tokens AI Autopilot Prudent_2022": 89.7150240963,
+      "Native Tokens AI Autopilot Risky_2022": 82.4779729658,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-02-22T00:00:00.000",
+      "Bitcoin_2022": 111.0028725019,
+      "Native Tokens_2022": 82.1074975563,
+      "Native Tokens AI Autopilot Prudent_2022": 90.5276612674,
+      "Native Tokens AI Autopilot Risky_2022": 83.3021501148,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-02-23T00:00:00.000",
+      "Bitcoin_2022": 109.763085319,
+      "Native Tokens_2022": 80.8822797876,
+      "Native Tokens AI Autopilot Prudent_2022": 89.5379111999,
+      "Native Tokens AI Autopilot Risky_2022": 82.2828938465,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-02-26T00:00:00.000",
+      "Bitcoin_2022": 117.9640678588,
+      "Native Tokens_2022": 84.1003025673,
+      "Native Tokens AI Autopilot Prudent_2022": 92.1521381169,
+      "Native Tokens AI Autopilot Risky_2022": 84.9961438818,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-02-27T00:00:00.000",
+      "Bitcoin_2022": 123.5092787546,
+      "Native Tokens_2022": 85.2833024236,
+      "Native Tokens AI Autopilot Prudent_2022": 92.6330700118,
+      "Native Tokens AI Autopilot Risky_2022": 85.6289581126,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-02-28T00:00:00.000",
+      "Bitcoin_2022": 135.2346716494,
+      "Native Tokens_2022": 86.5222082992,
+      "Native Tokens AI Autopilot Prudent_2022": 93.2988845421,
+      "Native Tokens AI Autopilot Risky_2022": 86.4536985464,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-02-29T00:00:00.000",
+      "Bitcoin_2022": 132.4081455078,
+      "Native Tokens_2022": 87.6767725985,
+      "Native Tokens AI Autopilot Prudent_2022": 94.1113043251,
+      "Native Tokens AI Autopilot Risky_2022": 87.4140662774,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-03-01T00:00:00.000",
+      "Bitcoin_2022": 135.0958638951,
+      "Native Tokens_2022": 87.7584389317,
+      "Native Tokens AI Autopilot Prudent_2022": 94.2608115599,
+      "Native Tokens AI Autopilot Risky_2022": 87.5739622864,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-03-04T00:00:00.000",
+      "Bitcoin_2022": 147.8389295925,
+      "Native Tokens_2022": 92.840733074,
+      "Native Tokens AI Autopilot Prudent_2022": 97.8723000405,
+      "Native Tokens AI Autopilot Risky_2022": 91.836675916,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-03-05T00:00:00.000",
+      "Bitcoin_2022": 138.0395703523,
+      "Native Tokens_2022": 86.7748404396,
+      "Native Tokens AI Autopilot Prudent_2022": 93.3777566558,
+      "Native Tokens AI Autopilot Risky_2022": 86.6098298379,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-03-06T00:00:00.000",
+      "Bitcoin_2022": 143.0279528943,
+      "Native Tokens_2022": 91.2237105507,
+      "Native Tokens AI Autopilot Prudent_2022": 96.6560277506,
+      "Native Tokens AI Autopilot Risky_2022": 90.4222345578,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-03-07T00:00:00.000",
+      "Bitcoin_2022": 144.799239228,
+      "Native Tokens_2022": 94.5943511467,
+      "Native Tokens AI Autopilot Prudent_2022": 99.1686421884,
+      "Native Tokens AI Autopilot Risky_2022": 93.3442330339,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-03-08T00:00:00.000",
+      "Bitcoin_2022": 147.773328898,
+      "Native Tokens_2022": 93.6927393241,
+      "Native Tokens AI Autopilot Prudent_2022": 98.5263541133,
+      "Native Tokens AI Autopilot Risky_2022": 92.5972959999,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-03-11T00:00:00.000",
+      "Bitcoin_2022": 156.0464874133,
+      "Native Tokens_2022": 97.1747894676,
+      "Native Tokens AI Autopilot Prudent_2022": 100.7279275241,
+      "Native Tokens AI Autopilot Risky_2022": 95.1575750633,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-03-12T00:00:00.000",
+      "Bitcoin_2022": 154.6561279611,
+      "Native Tokens_2022": 99.0501996736,
+      "Native Tokens AI Autopilot Prudent_2022": 102.2238698734,
+      "Native Tokens AI Autopilot Risky_2022": 97.0442971494,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-03-13T00:00:00.000",
+      "Bitcoin_2022": 158.1226538582,
+      "Native Tokens_2022": 98.7637529846,
+      "Native Tokens AI Autopilot Prudent_2022": 101.8030318167,
+      "Native Tokens AI Autopilot Risky_2022": 96.5135250552,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-03-14T00:00:00.000",
+      "Bitcoin_2022": 154.4728821169,
+      "Native Tokens_2022": 99.7679917032,
+      "Native Tokens AI Autopilot Prudent_2022": 102.554126899,
+      "Native Tokens AI Autopilot Risky_2022": 97.4608260537,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-03-15T00:00:00.000",
+      "Bitcoin_2022": 150.1612380878,
+      "Native Tokens_2022": 98.273341905,
+      "Native Tokens AI Autopilot Prudent_2022": 101.7658842106,
+      "Native Tokens AI Autopilot Risky_2022": 96.4666735079,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-03-18T00:00:00.000",
+      "Bitcoin_2022": 146.1473917935,
+      "Native Tokens_2022": 97.7606006831,
+      "Native Tokens AI Autopilot Prudent_2022": 101.4760657079,
+      "Native Tokens AI Autopilot Risky_2022": 96.1011467402,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-03-19T00:00:00.000",
+      "Bitcoin_2022": 133.9537931782,
+      "Native Tokens_2022": 93.5084846328,
+      "Native Tokens AI Autopilot Prudent_2022": 98.8460058623,
+      "Native Tokens AI Autopilot Risky_2022": 92.7840456436,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-03-20T00:00:00.000",
+      "Bitcoin_2022": 146.9372707948,
+      "Native Tokens_2022": 91.8786993655,
+      "Native Tokens AI Autopilot Prudent_2022": 97.9530814892,
+      "Native Tokens AI Autopilot Risky_2022": 91.657865787,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-03-21T00:00:00.000",
+      "Bitcoin_2022": 141.696449821,
+      "Native Tokens_2022": 95.1133265264,
+      "Native Tokens AI Autopilot Prudent_2022": 99.6693674655,
+      "Native Tokens AI Autopilot Risky_2022": 93.822491094,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-03-22T00:00:00.000",
+      "Bitcoin_2022": 137.991024825,
+      "Native Tokens_2022": 93.3632236666,
+      "Native Tokens AI Autopilot Prudent_2022": 98.858128103,
+      "Native Tokens AI Autopilot Risky_2022": 92.7993345335,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-03-25T00:00:00.000",
+      "Bitcoin_2022": 151.3621144755,
+      "Native Tokens_2022": 96.7578656951,
+      "Native Tokens AI Autopilot Prudent_2022": 100.4381090214,
+      "Native Tokens AI Autopilot Risky_2022": 94.7920482956,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-03-26T00:00:00.000",
+      "Bitcoin_2022": 151.4249092656,
+      "Native Tokens_2022": 96.3792537284,
+      "Native Tokens AI Autopilot Prudent_2022": 100.1700717339,
+      "Native Tokens AI Autopilot Risky_2022": 94.4539925738,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-03-27T00:00:00.000",
+      "Bitcoin_2022": 150.2728150456,
+      "Native Tokens_2022": 96.0078680853,
+      "Native Tokens AI Autopilot Prudent_2022": 99.890300014,
+      "Native Tokens AI Autopilot Risky_2022": 94.1011370754,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-03-28T00:00:00.000",
+      "Bitcoin_2022": 153.0629996538,
+      "Native Tokens_2022": 95.835976357,
+      "Native Tokens AI Autopilot Prudent_2022": 99.7172369142,
+      "Native Tokens AI Autopilot Risky_2022": 93.8828653135,
+      "year": "2022"
+    },
+    {
+      "Date": "2024-03-29T00:00:00.000",
+      "Bitcoin_2022": 151.2193514101,
+      "Native Tokens_2022": 95.835976357,
+      "Native Tokens AI Autopilot Prudent_2022": 99.7172369142,
+      "Native Tokens AI Autopilot Risky_2022": 93.8828653135,
+      "year": "2022"
+    }
+  ]
+}
